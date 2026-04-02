@@ -1,0 +1,1398 @@
+,pergunta,resposta,k_utilizado,num_chamadas,tokens_incremental,tokens_top50,economia_tokens,status
+0,"Quais formulários são mencionados no documento como disponíveis no site do HE -> Sistemas -> ADS Hospitalar -> Documentos -> USOST – Unidade de Saúde Ocupacional e Segurança do Trabalho, e para quais finalidades são utilizados?","Os formulários mencionados no documento como disponíveis no site do HE -> Sistemas -> ADS Hospitalar -> Documentos -> USOST – Unidade de Saúde Ocupacional e Segurança do Trabalho, e suas finalidades, são:
+
+*   **Formulário USOST-029 - Autorização para trabalho a quente:** Utilizado para atividades que envolvam fontes de ignição, como aquecimento, centelha ou chama, em áreas onde exista ou possa existir presença de material inflamável ou combustível com possibilidade de incêndio e/ou explosão (Trabalho a quente).
+*   **Formulário USOST-030 - Permissão de Entrada e Trabalho em espaços confinados – PET:** Utilizado para permissão de entrada e trabalho em espaços confinados.
+*   **Formulário USOST-039 Etiqueta bloqueio de energias perigosas:** Utilizado para bloqueio de energias perigosas (elétrica, mecânica, hidráulica, pneumática, química, térmica).
+*   **Formulário USOST-027 - Permissão de trabalho de risco (PTR):** Utilizado para a emissão da Permissão de Trabalho com Risco, que é o foco das atividades a serem realizadas.",5,2,7234,101735,0.9288936944021231,SUCESSO
+1,"De acordo com o documento, qual é a definição de Estágio Optativo para acadêmicos de Medicina ou residentes?","De acordo com os documentos, entende-se Estágio Optativo como atividade curricular obrigatória, porém em área eletiva, ou seja, escolhida pelo próprio estudante.",5,2,10099,66961,0.8491808664745151,SUCESSO
+2,"Quais são os materiais necessários para a formalização de um Estágio Optativo previamente aprovado no Hospital Escola UFPEL, de acordo com o documento?","De acordo com os Documentos 2 e 4, os materiais necessários para a formalização de um Estágio Optativo previamente aprovado dependem da origem do acadêmico:
+
+**Para Acadêmicos da UFPEL:**
+*   Plano de Ensino, preenchido e assinado em conjunto com o supervisor do estágio;
+*   Declaração de seguro fornecida pelo colegiado da Faculdade de Medicina (FAMED).
+
+**Para Acadêmicos de OUTRAS INSTITUIÇÕES:**
+*   Termo de Compromisso de Estágio (3 vias), assinado pelo acadêmico e pela instituição de ensino;
+*   Plano de Ensino, preenchido e assinado em conjunto com o professor coordenador de estágios (caso a Instituição de Ensino não tenha modelo próprio, enviar o modelo da GEP);
+*   Carta de apresentação fornecida pela Instituição de Ensino, mencionando nome do estudante, situação atual de matrícula, nome da disciplina de estágio obrigatório que deve realizar e carga horária total que deve cumprir;
+*   Cópia de apólice de seguro contra acidentes pessoais, ou declaração da Instituição de Ensino atestando que o estudante está assegurado (mencionar nome da seguradora, número da apólice e prazo de vigência);
+*   Cópia de comprovante vacinal (carteirinha de vacinação) com as doses de Hepatite B e Dupla Adulto (Tétano, Difteria) em dia.",5,2,10176,80746,0.873975181433136,SUCESSO
+3,"Quais são os materiais necessários para o preenchimento do Sistema ADS Ensino para o cadastro de estágios curriculares obrigatórios, incluindo a impressão dos crachás de identificação?","Os materiais necessários para o preenchimento do Sistema ADS Ensino para o cadastro de estágios curriculares obrigatórios, incluindo a impressão dos crachás de identificação, são:
+
+*   Computador com Internet (Documento 2, 5)
+*   Sistema ADS Ensino (site do HE UFPEL) (Documento 2)
+*   Pen Drive (Documento 2, 4)
+*   Impressora (colorida / Ink Jet ou Laser colorida / equipamento de impressão colorida do Hospital Escola) (Documento 1, 2, 4)
+*   Papel A4 (ou Folha A4) (Documento 1, 4)
+*   Plástico Polaseal (Documento 1, 4)
+*   Plastificadora (Poliseladora) (Documento 4)",5,2,12935,60405,0.7858620975084845,SUCESSO
+4,Quais são os materiais necessários para o preenchimento do Sistema ADS Ensino para cadastro dos estágios optativos e impressão dos crachás de identificação?,"Os materiais necessários são: Computador com Internet, Sistema ADS Ensino (site do HE UFPEL); Impressora Ink Jet ou Laser colorida; Papel A4; Plástico Polaseal para plastificação do crachá.",5,2,12829,61952,0.7929203254132231,SUCESSO
+5,"De acordo com a Resolução CNS nº 466/2012, item II.21, como é definido o termo 'ressarcimento' no contexto da compensação material em pesquisas?","De acordo com a Resolução CNS n° 466/2012, item II.21, ressarcimento é definido como “compensação material, exclusivamente de despesas do participante e seus acompanhantes, quando necessário, tais como transporte e alimentação”.",5,2,8397,55673,0.8491728485980636,SUCESSO
+6,"Quais formulários são utilizados na rotina de monitorias remotas descrita no documento, e para que propósito cada um serve?","Os formulários utilizados na rotina de monitorias remotas e seus propósitos são:
+
+*   **Formulário CPC – 003 Anuência para Monitoria Remota**: Utilizado pela Chefia do Setor de Gestão da Pesquisa e Inovações Tecnológicas em Saúde e Coordenador de Pesquisa para documentar sua anuência para a realização da monitoria remota.
+*   **Formulário CPC – 004 Ciência para Monitoria Remota**: Utilizado pelos investigadores e sub-investigadores para documentar sua ciência sobre a monitoria remota, respaldando sua execução.
+*   **Formulário CPC – 005 Acordo de Confidencialidade**: Utilizado pelo monitor para se comprometer a utilizar a documentação-fonte de forma adequada, destruir cópias de documentos-fonte de forma segura após verificação, e a não fazer cópias ou gravações de documentos-fonte que contenham informações do participante.",5,2,11355,51499,0.7795102817530437,SUCESSO
+7,"De acordo com o documento, qual a responsabilidade do coordenador da ação de instrutoria interna referente à elaboração do projeto básico de capacitação para instrutoria interna?","De acordo com o documento, a responsabilidade do coordenador da ação de instrutoria interna referente à elaboração do projeto básico de capacitação para instrutoria interna é:
+
+Elaborar o projeto básico de capacitação para instrutoria interna, conforme capacitação validada no PDC.
+Preencher, no sistema SEI, o Formulário SEI_Projeto Básico de Capacitação, conforme orientações do PDC vigente.
+Assinar o Projeto Básico e providenciar a assinatura do assistente, chefia da área demandante e demais responsáveis, conforme definido no PDC vigente.
+Enviar, via sistema SEI, o projeto com 60 dias de antecedência à realização da ação à unidade UDP/DIVGP/GAD/HE-UFPel e aguardar a elaboração da nota técnica de aprovação ou despacho preliminar, com eventuais ajustes que precisam ser realizados no projeto.",5,2,8945,81644,0.8904389789819215,SUCESSO
+8,"Qual o prazo que o colaborador apto para a instrutoria interna tem, após o recebimento do despacho de indicação pela UDP, para manifestar confirmação ou indisponibilidade,  e o que precisa ser feito?","Após o recebimento do despacho de indicação pela UDP, o colaborador apto para a instrutoria interna terá o prazo de **7 dias** para manifestar confirmação ou indisponibilidade.
+
+Para isso, o colaborador deve realizar uma das seguintes ações:
+1.  Preencher o Termo de Ciência da Atividade de Instrutoria Interna_SEI (com a assinatura do instrutor e chefia imediata dele).
+2.  Ou enviar um despacho informando a indisponibilidade para atuação na ação de capacitação.",5,2,17579,86366,0.7964592547993423,SUCESSO
+9,Quais são os documentos normativos citados que regem as ações de capacitação e a instrutoria interna na Empresa Brasileira de Serviços Hospitalares (EBSERH)?,"Os documentos normativos citados que regem as ações de capacitação e a instrutoria interna na Empresa Brasileira de Serviços Hospitalares (EBSERH) são:
+
+*   **Norma - SEI nº 5/2022/DGP-EBSERH**: Dispõe sobre as ações de capacitação no âmbito da Empresa Brasileira de Serviços Hospitalares – Ebserh.
+*   **Portaria- SEI nº 2931/2022/DGP-EBSERH**: Regulamenta a instrutoria interna no âmbito da Rede Ebserh.",10,4,26581,66971,0.6030968628212211,SUCESSO
+10,"De acordo com o documento, qual o procedimento a ser adotado pelo NAA quando a escala de trabalho é recebida após o dia 15 do mês antecedente à escala de referência?","De acordo com os documentos, quando a escala de trabalho é recebida pela DIVGP após o dia 15 do mês antecedente à escala de referência, o procedimento a ser adotado pelo NAA é:
+
+1.  Incluir a escala no bloco interno do SEI em pasta previamente criada com o mês correspondente, nomeando-o através do ícone anotações com a informação da unidade correspondente e informando “Fora do Prazo” (Documento 1).
+2.  Baixar a escala contida no processo (que deverá estar em formato PDF) e arquivar em: Computador>NAA>Escalas Mensais>Ano Correspondente>Pasta da Unidade Correspondente. A escala salva deverá ser nomeada da seguinte forma: Nome da unidade\_Profissional\_Mês\_Ano. Ex: CLÍNICA\_MÉDICA\_ENF\_FEV\_2022 (Documento 1).
+3.  Devolver ao gestor o processo contendo a escala recebida com despacho utilizando texto padrão contido no SEI “Entrega de Escala Fora do Prazo” (Documento 1).
+4.  A escala será arquivada pelo NAA, e o cadastramento dos horários de trabalho dos empregados no sistema SIGP/MENTORH ficarão sob responsabilidade do gestor (Documento 2, Documento 3).
+5.  Será informada na planilha de controle (disponível em Computador>NAA>Controle de Entrega de Escalas) no lugar da data de entrega a informação “Fora do Prazo” (Documento 4).",5,2,17116,71390,0.760246533127889,SUCESSO
+11,"Descreva o procedimento para o tratamento de inconsistências encontradas nas escalas de trabalho, especificando as ações das chefias, os formulários utilizados e os departamentos envolvidos no processo de correção.","O procedimento para o tratamento de inconsistências encontradas nas escalas de trabalho é o seguinte:
+
+1.  **Identificação das inconsistências:** O Núcleo de Apoio Assistencial (NAA) verifica as escalas de trabalho enviadas pelos gestores. Uma inconsistência é, por exemplo, a divergência entre os horários individuais do empregado cadastrados no sistema (SIGP/Mentorh) e os descritos na escala de trabalho.
+2.  **Devolução da escala:** Quando o NAA verifica uma inconsistência, a escala enviada é devolvida ao gestor para correção.
+3.  **Prazos para correção:** O gestor tem um prazo de 96 horas para a Divisão de Enfermagem e 72 horas para as demais unidades para retornar a escala corrigida.
+4.  **Ações das chefias (gestor):**
+    *   O gestor é responsável por realizar as retificações necessárias.
+    *   Para divergências de horários cadastrados no sistema com os descritos na escala, as alterações nos Horários Individuais dos empregados devem ser solicitadas pelo gestor.
+    *   **Formulário utilizado:** ""Formulário de Alteração de Horário Individual"", que deve estar constante no SEI.
+    *   O gestor deve preencher o formulário com as informações detalhadas de cada empregado, incluindo nome completo, SIAPE, horários que o empregado deverá realizar a cada dia da semana e data de início da nova jornada de trabalho.
+    *   **Encaminhamento:** O formulário preenchido é encaminhado para a Unidade de Administração de Pessoal - UAP.
+    *   Após a escala ser tratada e entregue ao NAA, se houver troca de plantão/horário previsto, o gestor deverá lançar as alterações no sistema SIGP e encaminhar a escala atualizada via despacho, até o 5º dia útil do mês subsequente ao mês de referência, para fins de arquivamento.
+5.  **Departamentos envolvidos no processo de correção:**
+    *   **Núcleo de Apoio Assistencial (NAA):** Responsável por verificar as inconsistências e devolver as escalas aos gestores.
+    *   **Chefia Imediata (Gestor):** Responsável por retificar as escalas, solicitar alterações de horários individuais e lançar trocas de plantão/horário.
+    *   **Unidade de Administração de Pessoal (UAP/DIVGP/GA/HE-UFPEL):** Departamento para o qual o Formulário de Alteração de Horário Individual é encaminhado para processar as mudanças de horários.
+    *   **Divisão de Gestão de Pessoas (DIVGP):** A UAP faz parte da DIVGP.",5,2,27922,51886,0.46185869020545045,SUCESSO
+12,"Quais são os passos para inserir as escalas de trabalho nas pastas, após a criação das pastas anuais e mensais, de acordo com as instruções fornecidas?","De acordo com as instruções fornecidas nos Documentos 1 e 2, após a criação das pastas anuais e mensais, os passos para inserir as escalas de trabalho são:
+
+1.  Baixar a escala contida no processo que deverá estar em formato PDF.
+2.  Arquivar em: Computador>NAA>Escalas Mensais>Ano Correspondente>Pasta da Unidade Correspondente.
+3.  A escala salva deverá ser nomeada da seguinte forma: Nome da unidade\_Profissional\_Mês\_Ano. Ex: CLÍNICA\_MÉDICA\_ENF\_FEV\_2022.",5,2,16719,60866,0.7253146255709263,SUCESSO
+13,"Qual o procedimento descrito no documento para anexar a Declaração de Dispensa no sistema SEI UFPel, após o preenchimento do formulário PROGEP: Requerimento de Benefícios?","Após preencher e assinar o formulário PROGEP: Requerimento de Benefícios, para anexar a Declaração de Dispensa, o servidor deve seguir o procedimento:
+1. Selecionar a opção “Incluir Documento”.
+2. Escolher o Tipo do Documento: “Externo”.
+3. Na próxima tela, preencher o Tipo do Documento: “Declaração”.
+4. Preencher a data do documento.
+5. Preencher o Número/Nome na Arvore: “Justiça Eleitoral”.
+6. Preencher o formato, o nível de acesso e a hipótese legal.
+7. Anexar o arquivo, procurando-o nos seus documentos.
+8. Após concluído, “Confirmar Dados”.",5,2,13797,91799,0.8497042451442827,SUCESSO
+14,"Quais são os passos necessários para cadastrar as permissões de um servidor RJU no sistema SIP para acesso ao SEI EBSERH, incluindo as ações para alteração de lotação e vacância?","Para cadastrar as permissões de um servidor RJU no sistema SIP para acesso ao SEI EBSERH, os passos são:
+
+**Cadastro de servidores no SIP:**
+1.  Acessar o sistema e clicar em “Usuários” + “Novo”.
+2.  Incluir os dados solicitados: Órgão: HE-UFPEL, Sigla: usuário do servidor (usuário de acesso aos sistemas EBSERH e/ou e-mail EBSERH), Nome: nome completo do servidor, ID Origem: (em branco).
+3.  Salvar.
+
+**Cadastro de Permissões:**
+1.  Clicar em “Permissões” + “Nova”.
+2.  Preencher os campos: Órgão do Sistema: SEDE, Sistema: SEI, Órgão da Unidade: HE-UFPEL, Órgão do Usuário: HE-UFPEL, Perfil: Básica, Unidade: cadastrar a unidade do servidor, Usuário: cadastrar a sigla do servidor (nome.sobrenome).
+3.  Salvar.
+
+**Em caso de alteração na unidade de lotação:**
+*   Deve ser incluída a data final na permissão vigente.
+*   Deve ser cadastrada nova permissão para o usuário.
+
+**Em caso de vacância:**
+*   Deve ser incluída a data final na permissão vigente.",5,2,18236,67749,0.7308299753501897,SUCESSO
+15,"Qual o prazo de entrega do formulário DIVGP – DASF – 001 Remanejamento Interno RJU ao Departamento de Apoio ao Servidor Federal (DivGP), contado a partir da data da efetiva mudança de lotação?",O formulário deve ser entregue no Departamento de Apoio ao Servidor Federal (DivGP) com 15 dias de antecedência da efetiva mudança de lotação.,25,6,92241,51753,-0.7823314590458523,SUCESSO
+16,"Qual o tempo médio de duração da higienização simples das mãos com água e sabonete, e qual o tempo médio da fricção antisséptica das mãos com preparações alcoólicas?","A higienização simples das mãos com água e sabonete deve durar em média 40-60 segundos, e a fricção antisséptica das mãos com preparações alcoólicas dura em média 30 segundos.",5,2,5486,47893,0.8854529889545445,SUCESSO
+17,"Qual o tempo mínimo de fricção recomendado para a antissepsia cirúrgica das mãos na primeira cirurgia e nas cirurgias subsequentes, respectivamente, de acordo com o documento?","De acordo com o documento, o tempo mínimo de fricção recomendado para a antissepsia cirúrgica das mãos é de 03 a 05 minutos para a primeira cirurgia, e 02 a 03 minutos para as cirurgias subsequentes.",5,2,6812,42462,0.8395742075267298,SUCESSO
+18,"Quais são as informações contidas na nota registrada no AGHU quando se trata de precaução de contato por bactéria multirresistente, de acordo com o documento?","Quando se trata de precaução de contato por bactéria multirresistente, a enfermeira registra no AGHU uma nota com as seguintes informações: nome do microrganismo, sítio/material coletado, data da coleta e a seguinte observação - REINTERNAÇÃO ATÉ XX/XX/XXXX (1 ano após coleta) EM PRECAUÇÃO DE CONTATO.",5,2,12492,44565,0.7196903399528778,SUCESSO
+19,"De acordo com o documento, qual o tempo de duração recomendado para a higiene das mãos com água e sabonete líquido e com preparação alcoólica, respectivamente?","De acordo com os documentos, o tempo de duração recomendado para a higiene das mãos com água e sabonete líquido é de 40 a 60 segundos, e com preparação alcoólica é de 20 a 30 segundos.",5,2,4794,38257,0.874689599289019,SUCESSO
+20,"Quais são os materiais necessários para o processo de recebimento, conferência e armazenamento de medicamentos do Patrocinador do Estudo, conforme descrito no documento?","Conforme descrito no Documento 1, os materiais necessários para o processo de recebimento, conferência e armazenamento de medicamentos do Patrocinador do Estudo são:
+*   Armário exclusivo para o armazenamento de medicamentos
+*   Computador com internet
+*   Geladeira, quando necessário
+*   Pasta de Controle de lotes recebidos
+*   Termômetro",5,2,5996,46640,0.8714408233276157,SUCESSO
+21,"De acordo com o documento, quais os equipamentos que devem ser de uso individual para cada paciente, e qual o procedimento caso não haja disponibilidade de material individual?","De acordo com o documento, os equipamentos que devem ser de uso individual para cada paciente são: estetoscópio, esfigmomanômetro, termômetro, oxímetro.
+
+Caso não haja disponibilidade de material para uso individual, eles devem ser limpos e desinfetados com álcool 70% ou solução desinfetante padronizada para a reutilização.",5,2,9437,61343,0.8461601160686631,SUCESSO
+22,"Quais são os materiais necessários para a implementação da precaução para gotículas, conforme descrito no documento?",Água corrente; Sabonete líquido ou preparação alcoólica; Papel toalha; Máscara cirúrgica descartável + equipamento de precaução padrão conforme MA.HE.004 Manual de Biossegurança e Precauções na Assistência); Placa de identificação da precaução.,5,2,7704,61401,0.8745297307861435,SUCESSO
+23,"Quais são os Equipamentos de Proteção Individual (EPIs) necessários para a assistência a pacientes em precaução para aerossóis, conforme mencionado no documento?","Os Equipamentos de Proteção Individual (EPIs) necessários para a assistência a pacientes em precaução para aerossóis são: gorro, óculos de proteção, avental, máscara N95 ou PFF2, e luva.
+
+(Mencionado nos Documentos 6 e 9 para coleta de secreção respiratória, que é um procedimento com risco de aerossóis e onde a máscara N95 ou PFF2 é indicada).",10,3,38571,56213,0.31384199384484013,SUCESSO
+24,"De acordo com o documento, quais são os passos a serem seguidos para a realização da tricotomia pré-operatória, incluindo a preparação do paciente e o descarte do material?","De acordo com o documento 3, os passos a serem seguidos para a realização da tricotomia pré-operatória, incluindo a preparação do paciente e o descarte do material, são:
+
+1.  Conferir identificação da paciente conforme PRT.GAS.006 Protocolo de Identificação do Paciente.
+2.  Informar o paciente sobre o procedimento a ser realizado e a área a ser preparada.
+3.  Higienizar as mãos (Conforme POP.CCIH.001 Higienização das Mãos).
+4.  Providenciar a iluminação adequada para execução da técnica de tricotomia.
+5.  Manter a privacidade do paciente, expondo somente a área a ser tricotomizada.
+6.  Proteger os lençóis de cama ou maca.
+7.  Calçar luvas.
+8.  Adaptar a lâmina descartável no tricotomizador e testar o funcionamento.
+9.  Esticar a pele, manter o tricotomizador no ângulo de 15 – 30 graus em relação à superfície da pele e fazer a tricotomia cuidando para não pressionar com força.
+10. Remover (com toalha de papel descartável) os pelos à medida que são cortados.
+11. Pressionar suavemente o lado adesivo da fita crepe sobre a área tricotomizada para remover os pelos residuais na área tricotomizada.
+12. Encaminhar o paciente para o banho de aspersão ou banho de leito, higienizando a área tricotomizada com água morna e sabão antisséptico.
+13. Substituir os lençóis da cama ou maca.
+14. Dar destino adequado aos materiais utilizados.
+15. Limpar o tricotomizador após cada uso, de acordo com as instruções do fabricante.
+16. Registrar a técnica realizada no prontuário do paciente, assinar e carimbar.",5,2,17997,60330,0.7016907011437096,SUCESSO
+25,"Quais são os materiais necessários para a coleta de cultura de vigilância em recém-nascidos na UTI Neonatal, de acordo com o documento?","De acordo com os documentos, os materiais necessários para a coleta de cultura de vigilância em recém-nascidos na UTI Neonatal são:
+
+*   Paramentação indicada para precaução de contato MA.HE.004 Manual de Biossegurança e Precauções na Assistência
+*   Coletor de secreção de vias aéreas
+*   Clorexidina aquosa ou degermante
+*   Etiqueta com identificação do paciente e o local de coleta
+*   Gaze estéril
+*   Kit swab (swabs e tubos estéreis)
+*   Pote de EQU
+*   Soro fisiológico 09% 100 mL
+*   Sonda de aspiração",5,2,6880,64417,0.8931958954934256,SUCESSO
+26,"De acordo com o documento, qual o procedimento a ser adotado para a coleta de amostra de paciente entubado para diagnóstico de infecções virais no trato respiratório superior?","De acordo com o documento, para os casos graves em que o paciente encontra-se entubado, pode-se proceder à coleta de aspirado da secreção traqueal para o diagnóstico de infecções virais no trato respiratório superior.",10,3,13834,39743,0.6519135445235639,SUCESSO
+27,"De acordo com o documento, qual a solução recomendada para a nebulização em caso de coleta de escarro induzido, especificando a composição e advertindo sobre uma possível substância a ser evitada?","De acordo com o documento, a solução recomendada para a nebulização em caso de coleta de escarro induzido é a solução salina 3 % (5 ml de Soro Fisiológico 0,9% + 0,5 ml de NaCl 20% ou CPM). É advertido para não utilizar solução preparada com água destilada e NaCl devido ao risco de broncoespasmo.",5,2,6902,38144,0.8190541107382551,SUCESSO
+28,"De acordo com o documento, qual a ordem correta para a retirada dos Equipamentos de Proteção Individual (EPIs), após o procedimento de assistência ao paciente?","De acordo com o documento, a ordem correta para a retirada dos Equipamentos de Proteção Individual (EPIs) é:
+1. Retirar luvas
+2. Retirar óculos de proteção
+3. Remover máscara pelas tiras/fitas elásticas
+4. Retirar avental descartável",5,2,5304,54706,0.9030453697949037,SUCESSO
+29,"De acordo com o documento, qual a exceção à regra de troca de cateter, especificando o tipo de cateter e quem decide a frequência de troca?","De acordo com o documento, a exceção à regra de troca de cateter é o **cateter tipo óculos**, cuja frequência de troca deve ser definida de acordo com a necessidade e **avaliação do Enfermeiro**.",5,2,19656,47973,0.5902695266087175,SUCESSO
+30,"Quais são os tipos de cirurgia considerados elegíveis para a busca pós-alta, conforme descrito no documento, e como essas cirurgias são definidas?",ERRO,20,5,54634,54296,-0.006225136289966127,SUCESSO
+31,"De acordo com o documento, quais são os objetivos do manual aplicável ao Hospital Escola da Universidade Federal de Pelotas (HE-UFPel) e setores sob gestão da Empresa Brasileira de Serviços Hospitalares – EBSERH?","De acordo com o Documento 2, os objetivos do manual aplicável ao Hospital Escola da Universidade Federal de Pelotas (HE-UFPel) e setores sob gestão da Empresa Brasileira de Serviços Hospitalares – EBSERH são:
+*   identificar os perigos, riscos e medidas preventivas de controle implementadas nas atividades;
+*   assegurar que os trabalhos potencialmente perigosos sejam executados dentro de padrões aceitáveis de segurança;
+*   garantir a prévia coordenação e comunicação entre os empregados, áreas solicitantes e executantes desses serviços não rotineiros, evitando que incidentes ocorram.",5,2,9742,69548,0.8599240812100994,SUCESSO
+32,"Quais são as responsabilidades do Responsável pela área EBSERH, de acordo com o documento fornecido?","De acordo com os documentos fornecidos, as responsabilidades do Responsável pela área EBSERH (Chefia responsável pela unidade em que o serviço será realizado) são:
+
+*   Cumprir e fiscalizar as diretrizes do presente procedimento;
+*   Acompanhar e orientar a equipe de trabalho quanto ao seguimento das diretrizes do procedimento, fornecendo os recursos necessários;
+*   Validar a PTR junto aos responsáveis pela execução do trabalho;
+*   Comunicar os envolvidos e gestores de áreas sobre a realização dos serviços realizados;
+*   Comunicar imediatamente, ao responsável pela execução, qualquer necessidade de mudanças no procedimento de trabalho estabelecido durante a execução do mesmo;
+*   Revisar e aprovar a ASTC, juntamente com o responsável executante e profissional de segurança do trabalho;
+*   Ser diretamente responsável pela área em que o trabalho será conduzido;
+*   Conhecer e compreender o programa de trabalho e como ele será desenvolvido;
+*   Conhecer a área e os riscos potenciais associados ao processo e aos equipamentos;
+*   Assegurar que todas as precauções de segurança sejam apropriadamente implementadas antes da assinatura e liberação da permissão;
+*   Tornar a área segura para trabalho;
+*   Garantir que o local de trabalho seja inspecionado após sua conclusão, para verificar a limpeza e o retorno às condições normais de operação;
+*   Assinar a permissão na abertura e fechamento dos trabalhos, certificando-se de que os itens obrigatórios para conclusão da PTR foram cumpridos (inspeção “in loco”);
+*   Atentar às recomendações provenientes do serviço de Segurança do Trabalho e implementar as ações preventivas/corretivas necessárias.",5,2,7933,77876,0.8981329292721763,SUCESSO
+33,"Quais são os exemplos de atividades rotineiras de baixo risco que são isentas de Permissão de Trabalho de Risco (PTR), de acordo com o documento?","De acordo com o documento, os exemplos de atividades rotineiras, classificadas de baixo risco, que são isentas de Permissão de Trabalho de Risco (PTR) são:
+*   atividades de almoxarifado;
+*   atividades médicas/assistenciais;
+*   transporte manual de peças;
+*   atividades rotineiras executadas dentro da oficina de manutenção/elétrica;
+*   preservação, higienização de equipamentos estáticos.",5,2,7898,45904,0.8279452771000348,SUCESSO
+34,"Quais são os documentos necessários para a execução de trabalhos a quente, conforme descrito no texto?","Para a execução de trabalhos a quente, são necessários os seguintes documentos:
+*   PTR (Permissão de Trabalho de Risco)
+*   APR (Análise Preliminar de Risco)
+*   Formulário USOST-029 - Autorização para trabalho a quente",5,2,8295,60889,0.8637684967728161,SUCESSO
+35,"Quais são os procedimentos de encerramento da Permissão de Trabalho (PTR), incluindo o que acontece com as vias do documento após a conclusão do serviço, conforme descrito no documento?","Os procedimentos de encerramento da Permissão de Trabalho (PTR) são os seguintes:
+
+1.  **Garantir o encerramento:** O responsável pela execução deve garantir o encerramento da PTR.
+2.  **Ações durante o encerramento:** Inclui a organização, limpeza da frente de trabalho e retirada dos bloqueios existentes, quando aplicável.
+3.  **Assinaturas:** Após o término da atividade, da organização e limpeza da frente de trabalho e retirada dos bloqueios utilizados (quando aplicável), os responsáveis da área e execução devem assinar e datar o campo de encerramento. Os responsáveis assinam a permissão no fechamento dos trabalhos, certificando-se de que os itens obrigatórios para conclusão da PTR foram cumpridos (inspeção “in loco”).
+4.  **Inspeção do local:** O responsável pela área deve garantir que o local de trabalho seja inspecionado após sua conclusão para verificar a limpeza e o retorno às condições normais de operação.
+5.  **Coleta e entrega das vias:** O responsável pela execução deve se responsabilizar pela coleta da via original da PTR, quando encerrada ou cancelada, e pela entrega de todas as vias originais das PTRs abertas à USOST.
+
+**O que acontece com as vias do documento após a conclusão do serviço:**
+
+*   Após a conclusão do serviço, as vias da PTR devem ser entregues à USOST para arquivamento.
+*   A primeira via (que fica com o responsável pela execução) e a segunda via (que fica exposta no local da atividade) devem ser entregues ao serviço de Segurança do Trabalho (USOST) para arquivamento.
+*   A PTR (formulário USOST-027) é armazenada de forma física/eletrônica, gerenciada pela USOST, tem um prazo de retenção de 5 anos e, após esse período, é descartada.",5,2,7816,59778,0.8692495566930978,SUCESSO
+36,"Quais são as informações contidas nos formulários utilizados nas inspeções de Ordem, Limpeza e Arrumação (OLA), de acordo com o documento?","Os formulários utilizados nas inspeções de Ordem, Limpeza e Arrumação (OLA) possuem campos para preenchimento das seguintes informações: local, data da inspeção, responsável pelo local ou serviço e responsável pela inspeção, além da nota e comentários de cada item.",5,2,6763,41429,0.8367568611359193,SUCESSO
+37,"Quais são os exemplos de mistura química líquida, sólida e gasosa citados no documento?","Exemplo de mistura química líquida: hipoclorito, álcool, formaldeído.
+Exemplo de mistura química sólida: Barra funcional Violeta Genciana, sabão em barra, ácido peracético em pó.
+Exemplo de mistura química gasosa: Ar comprimido, oxigênio comprimido, gás liquefeito de petróleo.",5,2,6188,46954,0.8682114409847936,SUCESSO
+38,"Quais são as informações básicas do produto comercial que devem ser obtidas consultando a Ficha de Informação de Segurança de Produtos Químicos (FISPQ) e os rótulos, de acordo com o documento?","A Ficha de Informação de Segurança de Produtos Químicos (FISPQ) e os rótulos devem ser consultados a fim de se obter a composição e algumas informações básicas do produto comercial, que incluem:
+
+*   Identificação do produto e da empresa
+*   Identificação dos perigos
+*   Composição e informação dos ingredientes
+*   Medidas de primeiros socorros
+*   Medidas de combate a incêndio
+*   Medidas de controle para derramamento ou vazamento
+*   Manuseio e armazenamento
+*   Controle da exposição e equipamentos de proteção individual
+*   Propriedades físico-químicas
+*   Estabilidade e reatividade
+*   Informações toxicológicas
+*   Informações ecológicas
+*   Considerações sobre tratamento e disposição
+*   Informações sobre transporte
+*   Regulamentações
+*   Outras informações",5,2,11845,54471,0.7825448403737769,SUCESSO
+39,"Quais são as ações obrigatórias a serem tomadas pela chefia imediata em relação ao manuseio de produtos químicos, de acordo com o documento?","De acordo com o documento, as ações obrigatórias a serem tomadas pela chefia imediata em relação ao manuseio de produtos químicos são:
+
+*   Exigir o cumprimento das boas práticas descritas neste documento.
+*   Garantir a capacitação dos trabalhadores sob sua gestão.
+*   Proibir a reutilização das embalagens, exceto quando admitido pelo fabricante.
+*   Manter identificação e rotulagem original dos produtos químicos dos serviços de saúde.
+*   Manter rotulada toda embalagem de produto químico fracionado.
+*   Autorizar previamente toda atividade envolvendo utilização de produtos químicos.
+*   Emitir permissão de trabalho sempre que for identificada uma ou mais das seguintes situações em atividades com produto químico:
+    *   Quando a atividade com produto químico puder causar interferências ou gerar riscos de danos ou efeitos em terceiros, não envolvidos com a atividade;
+    *   Quando as medidas de controle envolverem ou dependerem em parte ou totalmente de iniciativa/adesão/ação da chefia e/ou trabalhadores de outro setor;
+    *   Quando, mesmo após implementação das medidas de controle constantes na análise de segurança de tarefa crítica, houver necessidade de ações complementares, que somente possam ser garantidas através da emissão da permissão de trabalho; e
+    *   Quando houver solicitação expressa da Unidade de Saúde Ocupacional e Segurança do Trabalho.",5,2,23394,64805,0.639009335699406,SUCESSO
+40,"Quais são as características que o piso do local de armazenamento de produtos químicos deve apresentar, de acordo com o documento?","O piso deve estar limpo, nivelado e possuir característica impermeável.",5,2,12610,62921,0.7995899620158612,SUCESSO
+41,"Quais são os Equipamentos de Proteção Individual (EPIs) obrigatórios para manipulação de quimioterápicos, especificando o tipo de luva e o número de pares necessários?","Os Equipamentos de Proteção Individual (EPIs) obrigatórios para manipulação de quimioterápicos são:
+
+*   Avental cirúrgico com proteção contra produtos químicos.
+*   Calçado de segurança.
+*   Luvas cirúrgicas: dois pares.",5,2,12123,49963,0.7573604467305806,SUCESSO
+42,"Quais são os itens que compõem o kit de segurança para derramamento de produtos químicos, de acordo com o documento?","De acordo com o documento, o kit de segurança para derramamento de produtos químicos deve ser composto dos seguintes itens:
+* Óculos de segurança;
+* Avental impermeável;
+* Máscara respiratória para proteção contra particulados ou gases ácidos/vapores orgânicos, conforme o caso;
+* Luvas nitrílicas;
+* Dois sacos laranja de 100L;
+* Serragem ou mantas absorventes;
+* Vassoura;
+* Pá.",5,2,13039,50996,0.7443132794728998,SUCESSO
+43,"De acordo com o documento, quais são os passos para guardar uma máscara N95/PFF2 para posterior reutilização, incluindo a higienização das mãos e o manuseio do envelope?","De acordo com o documento, os passos para guardar uma máscara N95/PFF2 para posterior reutilização são:
+
+1.  Higienizar as mãos, conforme POP.CCIH.001.
+2.  Identificar o envelope com data e nome completo, deixando o envelope aberto.
+3.  Calçar luvas de procedimento.
+4.  Remover a máscara do rosto, retirando-a pelos elásticos. Tomar cuidado para não tocar na superfície interna, além de tocar o mínimo possível na superfície externa.
+5.  Acondicionar a máscara no interior do envelope sem tocar na superfície externa do mesmo. Os elásticos da máscara não deverão ficar dentro da embalagem.
+6.  Retirar as luvas e descartar em coletor de resíduo infectante.
+7.  Higienizar mãos, conforme POP.CCIH.001.
+8.  Fechar e guardar o envelope.",5,2,9793,42773,0.7710471559161153,SUCESSO
+44,"Quais os percentuais que definem os níveis ótimo, bom, regular e ruim do Índice de Práticas Seguras (IPS), conforme o documento?","Os percentuais que definem os níveis do Índice de Práticas Seguras (IPS) são:
+*   **IPS ótimo:** > 95%
+*   **IPS bom:** de 86 a 95%
+*   **IPS regular:** de 71 a 85%
+*   **IPS ruim:** ≤ 70%",5,2,9752,40931,0.7617453763651023,SUCESSO
+45,Qual o procedimento a ser seguido caso um colaborador apresente um atestado médico superior a 15 dias?,"Caso o atestado seja superior a 15 dias, o colaborador passará por consulta com a médica do trabalho para avaliação de atestado médico e será encaminhado para o INSS. A assistente social realizará todos os trâmites legais para o encaminhamento, e o colaborador será acompanhado pela assistente social e pelo enfermeiro de saúde mental via telefone até o seu retorno. Ao retornar, deverá passar por avaliação ocupacional pela médica do trabalho. Se estiver apto, será liberado para exercer suas atividades laborais. Se não estiver apto, a médica do trabalho e o enfermeiro de saúde mental discutirão novamente o caso e avaliarão a necessidade de avaliação da equipe multiprofissional do canal para os devidos encaminhamentos.",5,2,44831,115430,0.6116174304773456,SUCESSO
+46,"De acordo com o documento, quais são as responsabilidades da Unidade de Saúde Ocupacional e Saúde do Trabalhador (USOST) em relação ao controle das fichas de EPI?","De acordo com o documento 3, a Unidade de Saúde Ocupacional e Saúde do Trabalhador (USOST) é responsável pelo controle das fichas de EPI e, periodicamente, deverá:
+*   Recolher as Fichas de EPI no Almoxarifado Central.
+*   Organizar em ordem alfabética.
+*   Confeccionar protocolo de entrega em duas vias, das FICHAS DE EPI, contendo a data da entrega, SIAPE, nome e cargo dos empregados.
+*   Entregar as FICHAS DE EPI na Unidade de Administração de Pessoal e recolher uma via do protocolo de entrega assinado.
+*   Arquivar o protocolo de entrega em pasta arquivo destinada para este fim.",15,6,158627,94150,-0.6848327137546468,SUCESSO
+47,"Quais são os objetivos da Gerência de Ensino e Pesquisa (GEP) no Hospital Escola da UFPel, conforme descrito no documento?",São objetivos da GEP: auxiliar na formação de recursos humanos nas atividades de ensino desenvolvidas no HE; ampliar o conhecimento e inovação tecnológica através do incentivo à pesquisa; favorecer o desenvolvimento de atividades de extensão universitária.,10,4,51970,77518,0.3295750664361826,SUCESSO
+48,"Qual o endereço eletrônico para acessar a área de ensino do site do Hospital Escola, conforme descrito no documento?",O endereço eletrônico para acessar a área de ensino do site do Hospital Escola é: https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-sul/he-ufpel/ensino-e-pesquisa.,5,2,22118,69134,0.680070587554604,SUCESSO
+49,Quais são os horários de funcionamento do restaurante Bandejão e quais os procedimentos para o agendamento das refeições de almoço aos domingos e feriados e jantar diariamente?,"Os horários de funcionamento do restaurante Bandejão para almoço são de 11h30 às 14h, de segunda a sábado. Aos domingos e feriados, o almoço é realizado na copa do HE, e o jantar é servido diariamente na copa do HE, das 20h às 22h.
+
+Os procedimentos para agendamento são:
+*   **Almoço aos domingos e feriados:** A adesão deve ser feita no sábado ou na véspera do feriado.
+*   **Jantar diariamente:** A adesão deve ser feita diariamente, até às 13h30 do mesmo dia, ou pode ser realizada a adesão programada por semana.
+
+Para efetivar a adesão de ambas as refeições (almoço aos domingos e feriados, e jantar diariamente), o residente deve entrar em contato através do telefone 3284.4961 (ligação externa) ou ramal 4961 (ligação interna) - Copa Central, confirmando o consumo.",5,2,17087,61241,0.7209875736842964,SUCESSO
+50,"Quais são os medicamentos que compõem o RHZE, utilizado no tratamento da tuberculose, e em quais dosagens são disponibilizados pelo hospital?",RHZE é composto por Rifampicina 150mg + Isoniazida 75mg + Pirazinamida 400mg + Etambutol 275mg.,5,2,7044,39415,0.8212863123176456,SUCESSO
+51,"De acordo com o documento, qual o procedimento para notificação de gestantes com diagnóstico prévio ou atual de sífilis, toxoplasmose e HIV?","De acordo com o documento, o procedimento para notificação de gestantes com diagnóstico prévio ou atual de sífilis, toxoplasmose e HIV é o seguinte:
+
+1.  **Quem realiza a notificação:** O RESIDENTE da obstetrícia deve realizar a notificação, independente da realização de pré-natal ou de já ter sido notificada previamente. Pacientes que internam com diagnóstico prévio deverão ser notificados no momento da admissão.
+2.  **O que notificar e quando:** Toda SUSPEITA ou DIAGNÓSTICO deverá ser notificado imediatamente pelo médico responsável pelo paciente, ou seja, o profissional que prestou o atendimento deve notificar imediatamente (em até 24 horas) após suspeita ou diagnóstico.
+3.  **Onde ficam as fichas:** As fichas de notificação/investigação das doenças e agravos de notificação compulsória estão disponíveis no ADS -> Documentos -> Núcleo Hospitalar de Epidemiologia.
+4.  **Onde entregar as fichas preenchidas:**
+    *   Para notificações realizadas na OBSTETRÍCIA, as fichas poderão ser deixadas na pasta de ANTÍGENOS/NOTIFICAÇÕES que fica no POSTO DE ENFERMAGEM.
+    *   A notificação original deverá ser entregue para o escriturário de cada unidade, que encaminhará imediatamente ao NHE.",5,2,15908,65621,0.7575776047301931,SUCESSO
+52,"Quais são as faixas etárias atendidas pelo Screening Tool for Risk on Nutritional Status and Growth (STRONGkids-2010), e como é o acompanhamento diário desses pacientes?","As faixas etárias atendidas pelo Screening Tool for Risk on Nutritional Status and Growth (STRONGkids-2010) são pacientes acima de 1 mês de vida até 17 anos e 11 meses.
+
+O acompanhamento diário desses pacientes consiste em visitas diárias onde são realizadas a avaliação da aceitação da dieta prescrita, avaliação de ingestão, análise da dieta, medidas antropométricas, acompanhamento de exames laboratoriais e adaptação da dieta via oral (consistência, preparações, suplementação, ajuste das necessidades de calorias, macronutrientes e/ou micronutrientes). Se houver necessidade de terapia nutricional enteral ou parenteral, é solicitada a avaliação da EMTN por meio de consultoria para a Nutrição Clínica, e a avaliação da interrupção ou substituição da terapia nutricional deve ser discutida com a EMTN para tomada de decisão em equipe.",10,3,27526,51187,0.4622462734678727,SUCESSO
+53,"Quais são os critérios de inelegibilidade para o Serviço de Atendimento Domiciliar (SAD), conforme descrito no documento?","Os critérios de inelegibilidade para o Serviço de Atendimento Domiciliar (SAD) são:
+
+*   Residência da pessoa esteja fora dos limites de atuação da UADCP, por exemplo, zona rural da cidade ou municípios vizinhos;
+*   Ausência de cuidador disponível para receber orientações e auxiliar no cuidado;
+*   Local de moradia ofereça risco à equipe;
+*   Não concordância com os termos de atuação da equipe, segundo explicado na primeira avaliação.",5,2,8208,59159,0.8612552612451191,SUCESSO
+54,"Quais escalas são utilizadas para avaliar o risco de quedas em pacientes adultos e crianças, respectivamente, e como são identificados os pacientes adultos com risco alto de quedas?","Para avaliar o risco de quedas, para crianças é utilizada a Escala Humpty Dumpty e para os adultos a Morse Fall Scale (MSF). Os pacientes adultos que apresentam Risco Alto para quedas são identificados com uma pulseira amarela.",5,2,13970,46628,0.700394612679077,SUCESSO
+55,"De acordo com o texto, qual a exigência do TCLE em relação ao fornecimento do documento original aos participantes da pesquisa, incluindo detalhes sobre assinaturas e rubricas?","De acordo com o texto, a exigência do TCLE em relação ao fornecimento do documento original aos participantes da pesquisa é que ele deve assegurar, de forma clara e afirmativa, que o participante de pesquisa receberá uma via (e não cópia) do documento. Essa via deve ser assinada pelo participante de pesquisa (ou seu representante legal) e pelo pesquisador, e rubricada em todas as páginas por ambos.",5,2,7744,63517,0.8780798841255097,SUCESSO
+56,"Quais documentos estão disponíveis no site do HE-UFPel para pesquisas acadêmicas, científicas, relatos de casos e estudos clínicos, conforme descrito no documento?","Os documentos disponíveis no site do HE-UFPel para pesquisas acadêmicas, científicas, relatos de casos e estudos clínicos são:
+- Termo de Confidencialidade e Sigilo para Coleta de Dados;
+- Termo de Compromisso de Devolução Científica (não é necessário para estudos clínicos);
+- Formulário de Solicitação para Consulta de Prontuários e Dados Institucionais (se necessário);
+- Termo de Autorização de Chefia para Participação em Pesquisa (somente para empregados da EBSERH);
+- Termo de Consentimento Livre e Esclarecido (TCLE) / Termo de Assentimento Livre e Esclarecido (TALE).",5,2,20749,52443,0.6043513910340751,SUCESSO
+57,"Quais são os objetivos e o material necessário para estabelecer a rotina de criação do processo SEI para solicitações de autorização de pesquisas acadêmicas, científicas, relatos de caso e estudos clínicos no Hospital Escola-UFPEL/Ebserh?","Os objetivos são:
+Estabelecer rotina de criação do processo SEI para solicitação de autorização às chefias dos setores envolvidos, para a realização de pesquisas acadêmicas, científicas, relatos de caso e estudos clínicos no Hospital Escola-UFPEL/Ebserh, bem como manter seus registros atualizados junto ao sistema de informações.
+
+O material necessário é:
+Computador com acesso à internet.",5,2,12928,81125,0.8406409861325116,SUCESSO
+58,Qual o procedimento a ser seguido pelo responsável pela acolhida 72 horas antes da data agendada para a atividade de acolhimento dos alunos?,O responsável deverá enviar e-mail para o docente responsável pelo estágio em até 72 horas antes da data agendada confirmando a atividade e que informe os alunos; e solicitar ao assistente administrativo da GEP a impressão da lista de presença salva na pasta GERÊNCIA DE ENSINO E PESQUISA > FORMULÁRIOS PADRONIZADOS - SETOR QUALIDADE > GEP 016 Lista de Presença Acolhida e dos crachás.,5,2,8270,96534,0.914330702136035,SUCESSO
+59,"Quais arquivos devem ser anexados ao e-mail enviado aos residentes, supervisores e coordenadores dos programas, conforme descrito no documento?","Programação da Acolhida, Código de Ética e Conduta dos residentes e acadêmicos, Fluxograma de Exposição Biológica, Manual do Residente, Tutorial de Acesso ao Portal de Periódicos da CAPES, Política de Segurança da Informação e Comunicação, Política de Utilização dos Recursos de Tecnologia da Informação no HE-UFPEL, UPTODATE cartão de referência rápida.",5,2,23340,83688,0.7211069687410381,SUCESSO
+60,"Quais são os materiais necessários para a solicitação de Estágios Curriculares Obrigatórios, conforme descrito no documento?","Os materiais necessários para a solicitação de Estágios Curriculares Obrigatórios, para a formalização após aprovação, são:
+
+*   Termo de Compromisso de Estágio (3 vias originais), já assinado pelo estudante e pela Instituição de Ensino;
+*   Carta de apresentação fornecida pela Instituição de Ensino, mencionando nome do estudante, situação atual de matrícula, nome da disciplina de estágio obrigatório que deve realizar e carga horária total que deve cumprir;
+*   Cópia de apólice de seguro contra acidentes pessoais, ou declaração da Instituição de Ensino atestando que o estudante está assegurado (mencionar nome da seguradora, número da apólice e prazo de vigência);
+*   Cópia de comprovante vacinal (carteirinha de vacinação) com as doses de Hepatite B e Dupla Adulto (Tétano, Difteria) em dia.",5,2,17711,51359,0.655152943009015,SUCESSO
+61,"Quais são os semestres do curso de Medicina da UFPEL que englobam as atividades práticas obrigatórias do Internato, consideradas estágios?","Os semestres do curso de Medicina da UFPEL que englobam as atividades práticas obrigatórias do Internato, consideradas estágios, são o 9º, 10º, 11º e 12º semestres.",5,2,9696,56820,0.8293558606124604,SUCESSO
+62,"De acordo com o documento, quais são os fins permitidos para a solicitação de consulta e utilização de dados institucionais, listados no Objetivo?","De acordo com os documentos 2 e 5, os fins permitidos para a solicitação de consulta e utilização de dados institucionais, listados no Objetivo, são:
+- Apresentação de estudo de caso, caso clínico ou atividade pertencente a disciplina curricular dos cursos;
+- Obtenção de dados preliminares para elaboração de projeto de pesquisa;
+- Trabalho para apresentação de evento ou publicação em revista.",5,2,9362,44945,0.791700967849594,SUCESSO
+63,"Quais são os objetivos e o material necessário para a monitoração das solicitações de uso de dados institucionais e/ou de prontuários, conforme descrito no documento?","Os objetivos para a monitoração das solicitações de uso de dados institucionais e/ou de prontuários são:
+*   Monitorar as solicitações de uso de dados institucionais e/ou de prontuários quanto à execução do trabalho.
+*   Realizar a cobrança dos resultados, quando houver.
+
+O material necessário é:
+*   Computador com Internet.",5,2,9338,46152,0.7976685734096031,SUCESSO
+64,"Qual o material necessário para realizar o agendamento pontual das salas de ensino e de orientação (QG) no Hospital Escola da UFPel, de acordo com o documento?","Computador com Internet, telefone, Sistema de Agendamento de Salas (SAS) disponível no site do HE-UFPel.",5,2,17426,65518,0.7340272902103239,SUCESSO
+65,"De acordo com o documento, quais são os materiais necessários para realizar o agendamento permanente de salas de ensino e de orientação?","De acordo com o Documento 1, os materiais necessários para realizar o agendamento permanente de salas de ensino e de orientação são:
+*   Computador com Internet
+*   Telefone
+*   Sistema de Agendamento de Salas (SAS) disponível no site do HE-UFPel",5,2,25184,59495,0.5767039246995546,SUCESSO
+66,"Quais os formulários necessários para a solicitação e relatório de um Projeto de Atuação/Intervenção no Hospital Escola UFPEL, conforme descrito no documento?","Os formulários necessários para a solicitação e relatório de um Projeto de Atuação/Intervenção no Hospital Escola UFPEL são:
+
+*   Formulário “Solicitação para realização de Projeto de Atuação/Intervenção no Hospital Escola UFPEL” GEP-007
+*   Formulário “Relatório de Apresentação dos Resultados - Projeto de Atuação/Intervenção” GEP-012",5,2,28129,75894,0.6293646401560071,SUCESSO
+67,"Quais são os materiais necessários para solicitar um parecer do setor/unidade e autorização institucional para desenvolvimento de um Projeto de Ensino/Liga Acadêmica no Hospital Escola UFPEL/EBSERH, de acordo com o documento?","De acordo com os documentos 2 e 6, os materiais necessários para solicitar um parecer do setor/unidade e autorização institucional para desenvolvimento de um Projeto de Ensino/Liga Acadêmica no Hospital Escola UFPEL/EBSERH são:
+
+*   Computador com Internet
+*   Formulário “Solicitação para Realizar Projeto de Ensino/Extensão no Hospital Escola e Outras Unidades” (Site HE UFPEL)
+*   Programa ADS Ensino",10,4,76302,67833,-0.12485073636725486,SUCESSO
+68,"Quais materiais são necessários para a confecção de segunda via do crachá, de acordo com o documento?","Os materiais necessários para a confecção de segunda via do crachá, de acordo com o documento, são: Computador com Internet (Acesso ao ADS Hospitalar); Programa (POWER POINT); PEN DRIVE; Impressora; Folha A4; Plástico Polaseal; Plastificadora (Poliseladora).",5,2,8044,47076,0.8291273685104936,SUCESSO
+69,"Quais são os papéis dos executores envolvidos no processo após a avaliação do Estudo Clínico pelo Comitê de Ética em Pesquisa (CEP), conforme descrito na seção 'Descrição das atividades'?","Os papéis dos executores envolvidos no processo após a avaliação do Estudo Clínico pelo Comitê de Ética em Pesquisa (CEP), conforme descrito na seção 'Descrição das atividades' nos documentos fornecidos, são:
+
+*   **Investigador Principal** (Documento 1)
+*   **Coordenador de Pesquisa** (Documento 1)
+*   **Monitor de Pesquisa** (Documento 1)
+*   **Patrocinador do Estudo** (Documento 1)
+*   **Pesquisador** (Documento 5)
+*   **Setor de Pesquisa - GEP** (Documento 5)",5,2,10318,64478,0.8399764260678061,SUCESSO
+70,"Quais são os executores do processo de agendamento de visita, auditoria e inspeção regulatória ao Centro de Pesquisa Clínica (CPC), de acordo com o documento?","Auditor
+Monitor
+Coordenador de Pesquisa - CPC",5,2,7686,55417,0.8613060974069329,SUCESSO
+71,"De acordo com a descrição dos procedimentos, quais medidas de segurança e protocolos foram implementados para os participantes das pesquisas clínicas com suspeita ou confirmação de COVID-19 no Centro de Pesquisa Clínica (CPC) durante o período da pandemia?","De acordo com a descrição dos procedimentos, as medidas de segurança e protocolos implementados para os participantes das pesquisas clínicas com suspeita ou confirmação de COVID-19 no Centro de Pesquisa Clínica (CPC) durante o período da pandemia são:
+
+*   **Triagem pré-atendimento:** Os pacientes dos estudos são contatados 24 horas antes, via telefone, para realização de uma triagem referente a sintomas respiratórios, tanto dele quanto de seu acompanhante, conforme Formulário CPC – 002 Triagem Centro de Pesquisas Clínicas.
+*   **Adiamento do comparecimento:** Caso o participante esteja com suspeita e/ou confirmação de COVID-19, seu comparecimento ao Centro de Pesquisa é adiado.
+*   **Atendimento em consultório específico (se imprescindível):** Quando for imprescindível a vinda dos participantes confirmados e/ou suspeitos de COVID-19 ao Centro de Pesquisa, os atendimentos ocorrem, preferencialmente, no Consultório de Pesquisa 3, cujo acesso é separado das demais instalações do CPC.
+*   **Paramentação dos profissionais:** Os profissionais deverão paramentar-se conforme MA.HE.004 Manual de Biossegurança e Precauções na Assistência.
+*   **Desinfecção terminal do consultório:** Após o atendimento de um participante suspeito/confirmado, é realizada a desinfecção terminal deste consultório.
+*   **Higienização das mãos do participante:** O sujeito de pesquisa é orientado a realizar a Higienização das Mãos conforme POP.CCIH.001.
+*   **Distanciamento entre os participantes:** O sujeito de pesquisa é orientado a manter distanciamento entre os participantes.
+*   **Uso obrigatório de máscara:** O uso de máscara é obrigatório durante toda a permanência do paciente no CPC.
+*   **Aferição de temperatura e questionamento de sintomas:** Na chegada à portaria do CPC, a temperatura do paciente é aferida e novamente questões sobre sintomas gripais são levantadas.
+*   **Sala de espera separada:** A sala de espera dos participantes de pesquisa é separada da sala de espera dos demais serviços instalados no prédio e respeita o distanciamento de pelo menos 1 metro entre as cadeiras.
+*   **Limpeza concorrente dos consultórios:** Os consultórios recebem limpeza concorrente entre os atendimentos.",5,2,10876,33191,0.6723208098580941,SUCESSO
+72,"Quais são os documentos e plataformas utilizados para registro e arquivamento dos treinamentos da equipe do Centro de Pesquisa Clínica, de acordo com o documento?","De acordo com o documento, os documentos e plataformas utilizados para registro e arquivamento dos treinamentos da equipe do Centro de Pesquisa Clínica são:
+
+*   **Documento para registro:** Formulário CPC – 006 Registro de Treinamento.
+*   **Plataforma onde o formulário está disponível:** sistema ADS Hospitalar (aba documentos, pasta Centro de Pesquisas Clínicas).
+*   **Locais de arquivamento:** na pasta de regulatório do Centro de Pesquisa Clínica e anexado ao processo SEI correspondente ao estudo.",5,2,6749,61696,0.8906087914937759,SUCESSO
+73,"De acordo com o documento, quais são os pontos fundamentais que o conteúdo do Parecer Técnico-Científico (PTC) deve considerar?","De acordo com o documento, o conteúdo do Parecer Técnico-Científico (PTC) deve ser breve, considerando alguns pontos fundamentais:
+*   a descrição dos aspectos epidemiológicos da condição de saúde à qual a tecnologia será destinada;
+*   a descrição do tratamento recomendado e da tecnologia a ser avaliada;
+*   a pergunta a ser respondida pelo parecer;
+*   as fontes de informação utilizadas;
+*   a descrição do método;
+*   a síntese e a qualidade das evidências disponíveis;
+*   os resultados encontrados e as recomendações.",5,2,7549,31377,0.7594097587404787,SUCESSO
+74,"como faço para excluir uma apac do sistema ADSHospitalar?
+","Ao contrário do que é solicitado pelo requerente, a exclusão de uma APAC não é realizada. Em vez disso, a APAC é inativada no banco de dados.
+
+Para inativar uma APAC no sistema ADSHospitalar, o profissional de TI deve seguir os seguintes passos, intervindo diretamente no banco de dados via comandos SQL:
+
+1.  **Buscar o ID da APAC:**
+    *   Primeiramente, é necessário encontrar o ID da solicitação referente à APAC que será inativada, utilizando o nome completo do paciente e o número ou data da APAC.
+    *   Execute o seguinte comando SQL para pesquisar:
+        ```sql
+        SELECT sol.id, sol.apa_num, pa.nome nome_paciente, to_char(sol.created , 'yyyy-mm-dd hh24:mi') criado_em FROM po_apacs_solicitacoes sol INNER JOIN po_pacientes pa on sol.paciente_id = pa.id WHERE pa.nome like '%NOME DO PACIENTE%' ORDER BY id DESC;
+        ```
+    *   No resultado, verifique se as colunas `apa_num` (número da APAC) e `criado_em` (data de solicitação) de uma linha coincidem com as informações fornecidas e memorize o `ID` (coluna `id`).
+
+2.  **Inativar a APAC:**
+    *   Com o ID memorizado, execute o seguinte comando SQL para alterar o status da APAC para 'I' (inativo):
+        ```sql
+        UPDATE po_apacs_solicitacoes
+        SET status = 'I'
+        WHERE id = 00000; -- Substitua 00000 pelo ID encontrado na pesquisa anterior
+        ```",15,4,28829,34205,0.1571700043853238,SUCESSO
+75,"Como abro um chamado para a Ti utilizando o sistema GLPI?
+
+","Para abrir um chamado utilizando o sistema GLPI, você deve acessar o sistema GLPI que está disponível no site do Hospital Escola (HE) através do caminho: ""Site do HE -> Sistemas -> Abertura de chamados -> GLPI – Sistema para abertura de chamados"". Ao abrir o chamado, você deve informar o local, data e atividades que serão realizadas.",30,7,75493,41466,-0.8206000096464574,SUCESSO
+76,"como fazer para criar um novo ramal voip?
+
+
+","Para criar um novo ramal VoIP, siga os passos abaixo:
+
+1.  Acesse a Central Telefônica através da interface web, no endereço 10.100.208.21.
+2.  Na página inicial da Central Telefônica, entre com o username e password do administrador.
+3.  Após acessar a central telefônica, selecione a opção ""PBX Basic"", subitem ""Extensions"" e clique em ""+ Add"".
+4.  Preencha/Altere os seguintes campos solicitados na aba General:
+    *   **User Information:**
+        *   **Extension Number:** Insira o número do ramal a ser incluído.
+        *   **Display Name:** Insira o nome do setor onde o ramal está sendo instalado.
+        *   **Caller ID Number:** Utilize o mesmo número inserido no campo Extension Number.
+    *   **Authentication:**
+        *   **Register Name:** Utilize o mesmo número inserido no campo Extension Number.
+        *   **Password:** Utilize a senha padrão pré-definida para autenticação do ramal.
+    *   Mantenha os demais campos da aba General como aparecem.
+5.  Preencha/Altere os seguintes campos solicitados na aba Voicemail:
+    *   **Voicemail Configuration:**
+        *   **Enable Voicemail:** Por padrão, mantenha a caixa de mensagens de voz desabilitada (será habilitada por demanda via GLPI).
+6.  Prossiga preenchendo/alterando os campos solicitados na aba Options.",5,2,3661,42662,0.9141859265857203,SUCESSO
+77,"como faço para atribuir perfil no sistema ADSHospitalar?
+
+
+","Para atribuir perfil no sistema ADSHospitalar, siga os passos abaixo, utilizando o sistema ADSAcesso:
+
+1. Acesse o sistema ADSAcesso, indo no menu Grupos.
+2. Pesquise o grupo que deseja alterar os acessos.
+3. Acesse o grupo desejado, selecionando a opção Editar, para incluir o usuário ao grupo.
+4. Ao acessar a opção Editar, marque o nome do colaborador na listagem de usuários (em caso de atribuição de acesso).
+5. Após, selecione a opção Ok para salvar os dados.",10,3,12526,40870,0.6935160264252508,SUCESSO
+78,"o que fazer para incluir um novo leito no sistema AGHU?
+","Para incluir um novo leito no sistema AGHU, siga os procedimentos abaixo:
+
+1.  Acesse o sistema AGHUx através do endereço: https://aghu.heufpel.com.br/
+2.  Vá no menu Internação -> Cadastros -> Quartos e Leitos -> Quartos e Leitos.
+3.  Na tela de pesquisa, digite o nome da enfermaria na qual deseja criar o novo leito e clique em Pesquisar.
+4.  Após encontrar a enfermaria desejada, clique no ícone de edição.
+5.  Na tela Cadastrar Quarto, clique no botão Adicionar, para criação de um novo leito para a enfermaria.
+6.  No formulário de cadastro de leitos, preencha todos os campos e deixe todos os campos selecionados.
+7.  Após o preenchimento, clique no botão Confirmar.
+8.  Após incluir todos os leitos desejados, selecione o botão Gravar, para que as informações fiquem gravadas.",5,2,4484,39648,0.8869047619047619,SUCESSO
+79,"Como atender um chamado através do sistema GLPI?
+
+","Para atender um chamado através do sistema GLPI:
+
+1.  O recebimento do chamado é realizado pela equipe de suporte, que irá conferir a categoria do chamado e atribuí-lo ao(s) técnico(s) responsáveis pela execução.
+2.  O novo chamado deverá ser analisado por um dos técnicos, através do sistema GLPI.
+3.  O técnico irá conferir o tipo do chamado, a categoria e a localização e, se for necessário, fará as correções.
+4.  Um colaborador responsável pode verificar o chamado, atribuí-lo para si e atualizar a situação para ""Em atendimento"".",5,2,6154,48629,0.873449998971807,SUCESSO
+80,"Como liberar perfil no sistema AGHUX?
+
+
+","Para liberar o perfil no sistema AGHUX, siga os procedimentos abaixo, conforme descrito nos documentos:
+
+1.  **Consultar o Perfil:** Para saber qual perfil deverá ser atribuído, consulte a lista de Perfis no AGHUx, disponível no Onedrive da unidade USID, em `SETISD - USID - USIDPerfil_SistemasPerfilAGHU.xlsx`.
+2.  **Acessar o Módulo de Usuário:** No sistema AGHUx, vá ao menu `Outros Módulos > Configuração > Acesso > Usuario`.
+3.  **Pesquisar Usuário:** Digite o login do colaborador e clique em `Pesquisar`.
+4.  **Importar Usuário (se necessário):** Se o usuário não for encontrado, clique no botão `Importar Usuário` que irá aparecer e faça novamente a pesquisa pelo login do servidor.
+5.  **Adicionar Informações do Usuário:** Se o sistema apresentar o login na listagem (ou após a importação), clique em `Adicionar` (se for o primeiro cadastro) e preencha as informações do usuário, como e-mail (pessoal ou institucional) e marque que o usuário está `ativo`. Pressione `Gravar`.
+6.  **Editar Perfil:** Para adicionar o perfil ao usuário, clique em `Editar Perfil`.
+7.  **Adicionar Perfil:** Preencha o nome do perfil, selecione-o no menu suspenso e clique em `Adicionar`.
+8.  **Gravar Perfis:** Após adicionar os perfis, clique em `Gravar` para finalizar a vinculação dos perfis ao usuário.
+9.  **Vincular Usuário ao Servidor:** Insira o login do funcionário no campo `Login` dentro do cadastro do Servidor, acessando o menu `Outros Módulos > Colaborador > Administrar Servidor > Servidores` e buscando pelo cadastro do servidor. Selecione o login no menu suspenso e pressione o botão `Gravar`.",5,2,5205,36624,0.8578800786369594,SUCESSO
+81,"Como liberar perfil no sistema ADS Hospitalar?
+
+
+
+","Para liberar perfil no sistema ADS Hospitalar, siga os passos abaixo, conforme explicitado nos documentos:
+
+1.  **Acessar o sistema ADSAcesso**: Acesse o sistema ADSAcesso (http://hospitalar.heufpel.com.br/adsacesso/) utilizando o login/senha de administrador de sistema.
+2.  **Criar acesso ao sistema (se ainda não tiver)**: Após a criação do usuário, acesse o menu `Senhas`. No formulário de cadastro de acesso, preencha os campos:
+    *   Cliente: selecione a opção EBSERH.
+    *   Usuário: selecione o nome do colaborador.
+    *   Sistema: selecione a opção **ADSHospitalar**.
+    *   Login: Para colaboradores assistenciais/médicos/farmacêuticos/bioquímicos, o login é o número do conselho. Para colaboradores administrativos, o login é o nome do login de rede criado para ser utilizado pelo colaborador.
+    *   Senha: Informe uma senha padrão (esta senha está em desuso e não deverá ser informada ao usuário).
+3.  **Adicionar permissão ao usuário**: No cadastro do usuário, adicione a permissão com base na planilha de perfil disponível no One Drive da USID (SETISD - USID - USIDPerfil_SistemasGruposADSHospitalar.xlsx).
+4.  **Gerenciar grupos de acesso**:
+    *   Acesse o sistema ADSAcesso, indo no menu `Grupos`.
+    *   Pesquise o grupo desejado.
+    *   Acesse o grupo, selecionando a opção `Editar`.
+    *   **Para atribuir acesso**: marque o nome do colaborador na listagem de usuários.
+    *   **Para remover permissão**: desmarque o nome do colaborador na listagem de usuários.
+    *   Após, selecione a opção `Ok` para salvar os dados.",10,3,14613,41340,0.6465166908563136,SUCESSO
+82,"Como criar agenda de consultas no sistema ADS Hospitalar?
+
+
+
+","Para criar uma agenda ambulatorial no sistema ADS Hospitalar, siga os passos abaixo:
+
+1.  A partir de um chamado GLPI (de categoria de criação de agenda do sistema ADSHospitalar) ao setor de Tecnologia da Informação e Saúde Digital, solicitando a criação da agenda.
+2.  Acessar o sistema ADSHospitalar e ir no menu Cadastros -> Profissionais.
+3.  Na tela de Profissionais, digitar o nome do profissional para o qual será criada a grade e selecionar a opção Buscar.
+4.  Caso o cadastro do profissional exista, selecione-o indo na opção Editar.
+5.  Caso o cadastro do profissional não exista, selecione a opção + Cadastrar Profissional. O sistema irá apresentar a tela de preenchimento dos dados do profissional para a inclusão. Preencha todos os dados e selecione a opção Salvar. (Importante: em caso de criação de grade para equipe, será necessário informar um número de conselho fictício, que contenha 10 dígitos.)",5,2,9196,50157,0.8166557010985506,SUCESSO
+83,"Como excluir uma APAC?
+
+
+
+","Ao contrário do que é geralmente solicitado, a exclusão de uma APAC não é realizada, mas sim a inativação da APAC no banco de dados.
+
+Para inativar uma APAC:
+1.  Busque o ID da solicitação referente à APAC através do nome completo do paciente, do número ou data da APAC, utilizando o seguinte comando:
+    `SELECT sol.id, sol.apa_num, pa.nome nome_paciente, to_char(sol.created , 'yyyy-mm-dd hh24:mi') criado_em FROM po_apacs_solicitacoes sol INNER JOIN po_pacientes pa on sol.paciente_id = pa.id WHERE pa.nome like '%NOME DO PACIENTE%' ORDER BY id DESC;`
+2.  No resultado da pesquisa, verifique se as colunas `apa_num` (número da APAC) e `criado_em` (data de solicitação) de pelo menos uma linha conferem com as informações dadas. Se sim, memorize o ID (coluna `id`).
+3.  Desative a APAC com o comando a seguir, substituindo `00000` pelo ID encontrado na pesquisa anterior:
+    `UPDATE po_apacs_solicitacoes SET status = 'I' WHERE id = 00000;`",5,2,8511,45068,0.8111520369219846,SUCESSO
+84,"Como ingressar um computador no AD?
+
+
+
+","Para ingressar um computador no Active Directory (AD), siga os procedimentos abaixo:
+
+1.  Pressione a tecla Windows + tecla Pause/Break.
+2.  Selecione ""Alterar configurações"".
+3.  Escolha ""ID de rede"".
+4.  Na próxima tela, selecione a opção “Este computador faz parte de uma rede corporativa” e pressione Avançar.
+5.  Após isso, selecione “Minha empresa usa uma rede com domínio” e pressione Avançar.
+6.  Irá aparecer uma tela com informações para prosseguir com a operação, pressione Avançar.
+7.  Informe o nome do usuário, a senha e o nome do domínio (ex: EBSERHNET.EBSERH.GOV.BR).
+8.  Irá abrir uma tela informando que foi encontrada uma conta para este computador e perguntando se deseja utilizá-la, pressione Não.
+9.  Irá abrir uma tela pedindo para confirmar o nome do computador e o domínio, preencha os dados e avance para a próxima etapa.
+10. Informe novamente o nome do usuário administrador da rede (ex: adm.lcosta), a senha e o domínio (ex: EBSERHNET.EBSERH.GOV.BR).
+11. Na próxima tela, irá perguntar se você deseja adicionar o usuário como usuário de domínio, pressione Sim.
+12. Conceda o nível de acesso Administrador para o usuário e pressione Avançar.
+13. Pressione Concluir, depois clique em OK e reinicie a máquina.
+14. Faça login com o usuário, para criar o perfil no computador.
+15. Desabilite o firewall do Windows: Pressione Windows + R, escreva firewall.cpl, clique em OK, selecione “Ativar ou Desativar o Windows Defender Firewall” e desative o firewall.",5,2,6522,37817,0.8275378797895127,SUCESSO
+85,"Como cadastrar leito no sistema AGHUX?
+
+
+
+","Para cadastrar um leito no sistema AGHUX, siga os procedimentos abaixo:
+
+1.  Acesse o sistema AGHUx através do endereço: https://aghu.heufpel.com.br/
+2.  Vá no menu Internação -> Cadastros -> Quartos e Leitos -> Quartos e Leitos.
+3.  Na tela de pesquisa, digite o nome da enfermaria na qual deseja criar o novo leito e clique em Pesquisar.
+4.  Após encontrar a enfermaria desejada, clique no ícone de edição.
+5.  Na tela Cadastrar Quarto, clique no botão Adicionar para criação de um novo leito para a enfermaria (ou no ícone de edição caso deseje editar um leito existente).
+6.  No formulário de cadastro de leitos, preencha todos os campos e deixe selecionado todos os campos.
+7.  Após o preenchimento, clique no botão Confirmar.",5,2,4026,41628,0.9032862496396656,SUCESSO
+86,"Como atender alterações de dados nos sistemas?
+","Para atender alterações de dados nos sistemas, quando o software não oferece funcionalidade para tal ajuste, o Setor de Tecnologia da Informação e Saúde Digital poderá realizar a alteração diretamente na base de dados. O processo envolve:
+
+1.  **Solicitação**:
+    *   Para **dados assistenciais** (ex: alteração de evolução, anamnese), a chefia da unidade/setor deve abrir um processo no SEI, com um despacho informando as alterações e justificativa, e encaminhá-lo para a unidade USID/SETISD/SUP/HE-UFPel. Adicionalmente, deve abrir um chamado no sistema GLPI.
+    *   Para **dados administrativos** (ex: alteração de número de APAC, nome de exame), a abertura do chamado deve ser realizada apenas via GLPI pela chefia do setor/unidade ou colaborador delegado formalmente, justificando a alteração.
+
+2.  **Atendimento pela equipe técnica**:
+    *   A equipe técnica verifica o chamado GLPI e o atribui.
+    *   A USID analisa a solicitação:
+        *   Se a alteração for em **sistemas desenvolvidos pela Sede**, deve ser aberto um chamado através da ferramenta SAPE Sistemas, e o número do SAPE deve ser incluído no acompanhamento do chamado GLPI, que permanecerá com a situação “Pendente” até a resolução pela Sede.
+        *   Se for um **sistema desenvolvido pelo Hospital**, a alteração deverá ser realizada via base de dados.
+
+3.  **Documentação**:
+    *   Fotos do sistema antes e depois da alteração, contendo os dados, devem ser incluídas no chamado GLPI. Alternativamente, outros tipos de impressão (ex: relatório em PDF) podem ser utilizados.
+
+4.  **Finalização**:
+    *   Após a solução, o chamado GLPI deve ser finalizado.
+    *   Caso também tenha sido aberto um processo no SEI, o mesmo deverá ser concluído através de um despacho informando o número do GLPI. O número do processo SEI também deverá constar nos acompanhamentos do chamado no GLPI.",5,2,7636,55057,0.8613073723595547,SUCESSO
+87,"Como gerar relatório mensal da terceirizada?
+","Para gerar o relatório mensal da terceirizada, siga os passos abaixo:
+
+1.  No primeiro dia útil do mês, o fiscal do contrato com a empresa de desenvolvimento de sistemas (ou fiscal substituto) deverá emitir o relatório de tarefas concluídas.
+2.  Acesse a ferramenta Redmine através do endereço http://projetos.heufpel.com.br/redmine, utilizando o mesmo login/senha de rede.
+3.  Após logar, acesse o menu Projetos e escolha o projeto que foi desenvolvido pela empresa durante o mês. (Se a empresa atuou em mais de um projeto, repita o processo para cada um).
+4.  No projeto desejado, vá na aba Tarefas.
+5.  Filtre as tarefas pela situação diferente de ""Nova"".
+6.  Adicione o filtro “Atribuído para” e selecione os nomes dos colaboradores que fazem parte da empresa de desenvolvimento de sistemas e/ou o grupo “time de desenvolvimento”.
+7.  Adicione o filtro “Início maior ou igual ao primeiro dia do mês para faturamento”. Se alguma tarefa tiver iniciado em mês anterior ao faturamento, use essa data de início no filtro.
+8.  Selecione a opção ""Aplicar"" para os filtros.
+9.  Verifique as tarefas do grupo “time de desenvolvimento” para conferir se os desenvolvedores incluíram horas.
+10. Marque as tarefas que contêm horas incluídas pelos desenvolvedores terceirizados e as tarefas atribuídas aos nomes dos desenvolvedores.
+11. Selecione a opção ""CSV"" e o botão “Exportar”. O sistema irá gerar um arquivo em CSV.
+12. No arquivo CSV gerado, analise e exclua as linhas que contêm tarefas que não deveriam estar na planilha.
+13. Filtre a coluna ""início"" apenas com o mês a ser faturado.
+14. Verifique o tempo estimado e o tempo gasto para confirmar se a demanda foi realizada no prazo. Caso contrário, aplique o desconto conforme especificado no contrato.",5,2,21192,102341,0.7929275656872612,SUCESSO
+88,"Como gerar relatórios dos sistemas?
+","Para gerar relatórios dos sistemas, a chefia de uma unidade/setor, estatístico do hospital ou a Gerência de Ensino e Pesquisa (GEP) deve abrir um chamado através da ferramenta GLPI para o Setor de Tecnologia da Informação e Saúde Digital. Este setor irá então desenvolver o relatório em Excel ou Power BI, conforme a demanda. No caso da GEP, é necessário que exista um projeto formalizado para justificar a extração dos dados.",5,2,5036,52344,0.9037903102552346,SUCESSO
+89,"Como fazer melhorias dos sistemas?
+","Para fazer melhorias nos sistemas, a chefia ou chefia substituta de uma unidade/setor deve abrir um chamado através da ferramenta GLPI para o Setor de Tecnologia da Informação e Saúde Digital.
+
+O procedimento detalhado é o seguinte:
+1.  **Abertura de Chamado:** A chefia ou chefia substituta de uma unidade/setor abre um chamado via GLPI para o Setor de Tecnologia da Informação e Saúde Digital, solicitando a melhoria em sistemas da rede EBSERH.
+2.  **Verificação Inicial:** A equipe técnica verifica o chamado no GLPI e o atribui ao grupo SETISD – Sistemas. Se o chamado não for aberto por uma chefia, será solucionado com esta indicação.
+3.  **Atendimento:** Um colaborador do SETISD – Sistemas assume o chamado, atribui-o a si e atualiza a situação para “Em atendimento”.
+4.  **Esclarecimento da Demanda:** O colaborador realiza uma reunião para esclarecer a demanda de melhoria.
+5.  **Abertura de Chamado SAPE:** Após o entendimento da demanda, é aberto um chamado via SAPE (http://sape-sistemas.ebserh.gov.br/), e o chamado no GLPI fica na situação “Pendente” até a resolução pela Rede Ebserh.
+6.  **Resolução:** Após a solução da solicitação pela Rede, o status do chamado no GLPI é atualizado para “solucionado”; caso contrário, permanece como “pendente”.",5,2,6748,37028,0.8177595333261316,SUCESSO
+90,"Como habilitar internação no AGHUX?
+
+","Para habilitar um determinado procedimento de internação no sistema AGHU, tornando-o disponível para seleção como procedimento principal de uma internação hospitalar:
+
+1. Acesse o sistema AGHU através do endereço: http://aghu.heufpel.com.br.
+2. No sistema AGHU, acesse o menu Financeiro -> Faturamento -> Cadastros -> Tabelas -> Item Procedimento Hospitalar.
+3. Na tela de listagem de procedimentos, digite o código do procedimento no campo Código SUS e selecione a opção Pesquisar.
+4. Após encontrar o cadastro, selecione a opção Editar para acessar os dados de cadastro do procedimento.
+5. No cadastro do procedimento, marque a opção Internação e após selecione a opção Gravar, que fica no final da página, para salvar os dados.",5,2,5052,40173,0.8742438951534612,SUCESSO
+91,"Como criar tarefa de desenvolvimento?
+
+
+","Para criar uma tarefa de desenvolvimento, siga os procedimentos descritos nos documentos:
+
+1.  **Acessar a ferramenta Redmine:** Utilize o endereço http://projetos.heufpel.com.br/redmine, com o mesmo login/senha de rede.
+2.  **Escolher o projeto:** Após logar no Redmine, acesse o menu ""Projetos"" e escolha o sistema desejado (ex: Sistema ADSHospitalar, Sistema ADSNutri).
+3.  **Criar nova tarefa:** Dentro do projeto, vá na aba ""Tarefas"" e selecione a opção ""Nova Tarefa"".
+4.  **Preencher o formulário de criação da tarefa:**
+    *   **Tipo:** Selecione se a demanda é um defeito, melhoria, garantia pós-publicação, Peer Review, Gestão de Configuração ou Build.
+    *   **Título:** Informe o título da tarefa. Se a tarefa for para iniciar e encaminhada para empresa terceirizada, no início do título deve ser colocado ""OS"" e o número da ordem de serviço.
+    *   **Situação:** Defina como ""Nova"" se a demanda ainda não foi iniciada.
+    *   **Atribuído para:** Selecione o nome do colaborador ou da equipe responsável (Ex: TIME DE DESENVOLVIMENTO).
+    *   **Arquivos:** Para demandas de melhoria, anexe as histórias de usuários e a contagem de pontos de função. Para demandas direcionadas para a empresa terceirizada, inclua o arquivo de ordem de serviço assinado digitalmente (se a demanda já for iniciada).
+    *   **Início:** Atualize o campo com a data de início da tarefa. Caso a demanda ainda não tenha início programado, deixe este campo em branco.
+    *   **Tempo estimado:** Para demandas de melhoria, calcule 4 horas para cada ponto de função (multiplicar o total de pontos de função por 4, apenas para linguagens PHP/HTML/Javascript). Para defeito/garantia de pós-publicação, o prazo é de duas horas. Para os demais tipos, o tempo estimado é acordado com o desenvolvedor.
+
+A tarefa de desenvolvimento é criada após a validação e aprovação de requisitos pelo demandante, já com a estimativa de contagem de pontos de função e histórias de usuários anexadas.",5,2,7625,63708,0.8803133044515602,SUCESSO
+92,"Como criar tarefa de desenvolvimento?
+
+
+","Para criar uma tarefa de desenvolvimento, siga os procedimentos abaixo:
+
+1.  **Acessar a ferramenta Redmine:** Utilize o endereço http://projetos.heufpel.com.br/redmine, fazendo login com seu login/senha de rede.
+2.  **Acessar o Projeto Desejado:** Após o login, vá ao menu ""Projetos"" e selecione o sistema desejado (ex: Sistema ADSHospitalar, Sistema ADSNutri).
+3.  **Criar Nova Tarefa:** Dentro do projeto, acesse a aba ""Tarefas"" e selecione a opção ""Nova Tarefa"".
+4.  **Preencher o Formulário de Criação:** No formulário que aparece, preencha os seguintes campos:
+    *   **Tipo:** Selecione se a demanda é um defeito, melhoria, garantia pós-publicação, Peer Review, Gestão de Configuração ou Build.
+    *   **Título:** Informe o título da tarefa. Se a tarefa for para uma empresa terceirizada e já for ser iniciada, adicione ""OS"" e o número da ordem de serviço no início do título.
+    *   **Situação:** Defina como ""Nova"" se a demanda ainda não foi iniciada.
+    *   **Atribuído para:** Selecione o nome do colaborador ou da equipe responsável (ex: TIME DE DESENVOLVIMENTO).
+    *   **Arquivos:** Anexe as histórias de usuários e a contagem de pontos de função para demandas de melhoria. Se direcionada para empresa terceirizada, inclua o arquivo da ordem de serviço assinada digitalmente.
+    *   **Início:** Atualize com a data de início da tarefa, ou deixe em branco se não houver um início programado.
+    *   **Tempo estimado:** Calcule 4 horas para cada ponto de função para demandas de melhoria (apenas PHP/HTML/Javascript), ou 2 horas para defeitos/garantia de pós-publicação. Para os demais tipos, um tempo estimado é acordado com o desenvolvedor.
+
+É importante que esta tarefa seja criada após a validação e aprovação de requisitos pelo demandante, já com a estimativa de contagem de pontos de função e histórias de usuários anexadas.",5,2,7565,63708,0.8812551014001382,SUCESSO
+93,"Como unificar cadastros no PACS?
+
+
+","Para unificar cadastros replicados no PACS do DCM4CHEE, siga os procedimentos abaixo:
+
+1.  **Encontrar o cadastro gabarito:**
+    *   Acesse o ADS Hospitalar e pesquise pelo nome do paciente em Cadastros > Paciente. Se houver múltiplos resultados ou nenhum, consulte o AGHU (Pacientes > Pesquisar Pacientes, em Pesquisa Fonética).
+    *   O cadastro válido será aquele que possuir um ID de prontuário e/ou CPF, Cartão SUS e Nome da Mãe.
+    *   Memorize o número da coluna ""Código"" do ADS Hospitalar; este será o ID gabarito.
+
+2.  **Acessar o DCM4CHEE:**
+    *   Acesse o DCM4CHEE como administrador (login: admin) e clique em ""Folder"" no menu superior.
+
+3.  **Realizar a primeira pesquisa no DCM4CHEE:**
+    *   Selecione a opção ""Search for"" para ""Patient (with or without studies)"".
+    *   Pesquise primeiramente pelo ID do paciente (Patient\_ID / ID), utilizando o ID gabarito obtido no ADS Hospitalar.
+
+4.  **Identificar e organizar os cadastros:**
+    *   Nos resultados, expanda as linhas cinzas (pacientes) para visualizar as linhas verdes (exames).
+    *   Os exames (linhas verdes) devem ficar associados a apenas um cadastro (linha cinza). Este cadastro deve conter informações corretas (nome, ID, data de nascimento e sexo) e possuir ""ADSHOSPITALAR"" como Issuer.
+    *   Priorize o cadastro que:
+        *   Não for expansível e já tiver ""ADSHOSPITALAR"" preenchido no campo ""Issuer of Patient ID"" (ou onde possa ser inserido).
+        *   For expansível e tiver a maior quantidade de exames associados, além de ter ""ADSHOSPITALAR"" como Issuer (ou onde possa ser inserido).
+
+5.  **Ajustar o cadastro escolhido:**
+    *   Para inserir o Issuer ou outras informações, clique no ícone da folha com lápis na linha cinza.
+    *   Marque ""Allow all attributes"", insira ""ADSHOSPITALAR"" no campo ""Issuer of Patient ID"". Se necessário, corrija a data de nascimento no formato AAAAMMDD e apague o conteúdo de ""Patient Comments"". Clique em ""Save"".
+
+6.  **Criar um novo cadastro, se necessário:**
+    *   Se nenhuma das condições de prioridade for satisfatória, clique em ""New Pacient"".
+    *   Preencha as informações baseadas no cadastro gabarito do ADS Hospitalar, incluindo ""ADSHOSPITALAR"" em ""Issuer of Patient ID"" e a data de nascimento no formato M/D/AAAA. Clique em ""Save"".
+
+7.  **Unificar os exames:**
+    *   Clique no cadastro do paciente escolhido (linha cinza) com a tecla CTRL pressionada (a linha ficará laranja).
+    *   Selecione os exames (linhas verdes) dos outros cadastros replicados da mesma forma, clicando com CTRL (também ficarão laranja).
+    *   Clique em ""Move"" e, na próxima janela, clique em ""Move"" novamente.
+    *   Após a unificação, o DCM4CHEE perguntará se deseja apagar os cadastros vazios; clique ""yes"".
+
+8.  **Realizar nova pesquisa para unificação por nome:**
+    *   Fixe o cadastro já ajustado na tela clicando nele (linha cinza) com o CTRL pressionado.
+    *   Clique no botão ""Reset"".
+    *   Selecione ""Patient (with or without studies)"" em ""Search for"".
+    *   Digite/cole o nome correto do paciente (informado no ADS Hospitalar) e clique em ""Search"".
+    *   Se surgirem novos resultados replicados, repita os passos de seleção e movimentação (passos 15, 16 e 17 da sequência original, ou seja, unificar os exames no cadastro principal). Se não houver outros cadastros, o processo foi concluído.
+
+**Importante:** Caso haja replicação no ADS Hospitalar e AGHU, estes deverão ser preservados também no PACS DCM4CHEE. Exames podem ser unificados entre si, mas não serão vinculados ao cadastro ""correto"" de outro sistema.",10,4,24475,38016,0.35619212962962965,SUCESSO
+94,Como habilitar encaminhamento de chamada?,"Para habilitar o encaminhamento de chamada:
+
+1.  O encaminhamento de chamadas estará desabilitado por padrão. A habilitação deverá ocorrer por demanda, através de solicitação de habilitação via sistema GLPI.
+2.  Acessar a Central Telefônica através da interface web, no endereço 10.100.208.21.
+3.  Ao acessar a página inicial da Central Telefônica, entre com username e password do administrador.
+4.  Após acessar a central telefônica, selecione a opção ""PBX Basic"", subitem ""Extensions"" e edite as configurações do ramal para o qual deseja alteração.
+5.  Na aba Options, altere o campo ""Call Forward"", de acordo com as instruções a seguir:
+    *   A primeira coluna representa quando o encaminhamento deve ser feito:
+        *   **Always:** Sempre encaminhar ligações deste ramal.
+        *   **On Unavailable:** Somente encaminhar ligações deste ramal, quando indisponível (ex: telefone desligado ou com “não perturbe” ativado).
+        *   **When Busy:** Somente encaminhar ligações deste ramal, quando ocupado.
+    *   A segunda coluna representa o tipo de encaminhamento que deve ser feito:
+        *   **Voicemail:** Encaminha ligações para o correio de voz.
+        *   **Number:** Encaminha ligações para outro ramal. Neste caso, preencher a caixa de texto com o ramal para o qual deve ser encaminhado as ligações.
+        *   **Hang-up:** Finaliza as ligações.
+6.  Ainda na aba Options, após alterar o item ""Call Forward"" conforme a demanda gerada, clicar no botão ""Save"".",5,2,4766,63469,0.9249082229119727,SUCESSO
+95,"Como corrigir número de uma APAC?
+","Para corrigir o número de uma APAC, siga os seguintes passos, conforme explicitado nos documentos:
+
+1.  A TI toma conhecimento da necessidade de alteração através de um chamado no GLPI, que deve informar o nome completo do paciente, o número errado da APAC e o número correto. Opcionalmente, a data da APAC pode ser informada.
+2.  Busque o ID da solicitação referente à APAC a ser alterada utilizando o nome do paciente. Para isso, execute o comando SQL:
+    `SELECT sol.id, sol.apa_num, pa.nome nome_paciente, to_char(sol.created , 'yyyy-mm-dd hh24:mi') criado_em FROM po_apacs_solicitacoes sol INNER JOIN po_pacientes pa on sol.paciente_id = pa.id WHERE pa.nome like '%NOME DO PACIENTE%' ORDER BY id DESC;`
+    (Substitua '%NOME DO PACIENTE%' pelo nome real do paciente).
+3.  No resultado da pesquisa, verifique se as colunas `apa_num` e `criado_em` de pelo menos uma linha correspondem à APAC e datas informadas.
+4.  Se a correspondência for encontrada, memorize o ID (coluna `id`) dessa linha.
+5.  Realize a correção com o comando a seguir, substituindo '99999999999' pelo número correto da APAC e '00000' pelo ID encontrado na etapa anterior:
+    `UPDATE po_apacs_solicitacoes SET apa_num = '99999999999' /* número correto */ WHERE id = 00000; /* ID da select anterior */`",5,2,8044,37101,0.7831864370232609,SUCESSO
+96,Como habilitar chamada em espera?,"Para habilitar chamada em espera:
+1. Acessar a Central Telefônica através da interface web, no endereço 10.100.208.21.
+2. Entrar com username e password do administrador.
+3. Selecionar a opção ""PBX Basic"", subitem ""Extensions"" ou ""System Information"", subitem ""Extensions Status"" e editar as configurações do ramal para o qual deseja alteração.
+4. Na aba Options, alterar o campo ""Options"", item ""Call Waiting"" para Enable.
+5. Clicar no botão ""Save"".
+6. Clicar na faixa em vermelho ""Apply Configurations Changes Here"" para aplicar as alterações.",5,2,4850,67637,0.9282936854088738,SUCESSO
+97,Como habilitar correio de voz?,"Para habilitar o correio de voz, siga os passos abaixo:
+
+1.  Acesse a Central Telefônica através da interface web, no endereço 10.100.208.21.
+2.  Na página inicial da Central Telefônica, entre com username e password do administrador.
+3.  Após acessar a central telefônica, selecione a opção ""PBX Basic"", subitem ""Extensions"" e edite as configurações do ramal desejado. (Alternativamente, pode ser feito através da opção ""System Information"", subitem ""Extensions Status"").
+4.  Na aba ""Voicemail"", em ""Voicemail Configuration"", marque a caixa ""Enable Voicemail"".
+5.  Na aba ""Options"", altere o campo ""Call Forward"" e marque a opção ""Voicemail"".
+6.  Caso seja demandado, na aba ""Other"", configure o acesso web ao correio de voz marcando a caixa ""Enable"" no item ""Web Login"".
+7.  Clique no botão ""Save"".
+8.  Clique na faixa em vermelho ""Apply Configurations Changes Here"" para aplicar as alterações.",5,2,4639,50763,0.9086145420877411,SUCESSO
+98,"Como corrigir datas de uma APAC?
+","As datas de uma APAC podem ser corrigidas diretamente no banco de dados `he-hospitalar` através de comandos SQL, uma vez que o sistema ADS Hospitalar não oferece tela de edição para isso.
+
+O procedimento geral envolve:
+1.  **Preparar o ambiente:** Conectar-se ao banco de dados `APACs` usando uma ferramenta de gerenciamento de banco de dados (como o DB Visualizer).
+2.  **Identificar o ID da solicitação da APAC:** Utilizar o nome do paciente para buscar o ID da solicitação (campo `id`) na tabela `po_apacs_solicitacoes` com o Comando 1:
+    ```sql
+    SELECT sol.id, sol.apa_num, pa.nome nome_paciente, to_char(sol.created , 'yyyy-mm-dd hh24:mi') criado_em
+    FROM po_apacs_solicitacoes sol
+    INNER JOIN po_pacientes pa on sol.paciente_id = pa.id
+    WHERE  pa.nome like '%NOME DO PACIENTE%'
+    ORDER BY id DESC;
+    ```
+    Anote o `ID` da APAC encontrado, ele será usado nas cláusulas `WHERE` dos comandos de alteração.
+
+**Para tipos específicos de correção de datas:**
+
+*   **Alteração de datas de alta de uma APAC:** (Documento 1)
+    1.  Verifique os registros na tabela `po_apacs_altas` usando o `ID` da solicitação (Comando 2):
+        ```sql
+        SELECT * FROM po_apacs_altas WHERE apa_solicitacao_id = 00000;
+        ```
+    2.  Identifique o `ID` da linha onde o campo `dtobitoalta` está diferente de `null` e a data está incorreta.
+    3.  Execute o comando para atualizar a data de óbito/alta (Comando 3), substituindo `00000` pelo `ID` da linha a ser alterada e `AAAA-MM-DD` pela data correta:
+        ```sql
+        UPDATE po_apacs_altas SET apa_dtobitoalta = 'AAAA-MM-DD' /* Data correta cfme chamado */ WHERE id = 00000; /* ID da linha que será alterada */
+        ```
+    4.  Para **retirar a alta dada incorretamente** (Documento 1), execute o Comando 4, substituindo `00000` pelo `ID` da solicitação:
+        ```sql
+        UPDATE po_apacs_altas
+        SET apa_motsaida = 21,
+            apa_dtobitoalta = null,
+            apa_outrmot = null,
+            excl_faturam = null
+        WHERE apa_solicitacao_id = 00000;
+        ```
+
+*   **Alteração na Data de Solicitação, Data de Início e Fim da Validade e Data da Autorização da APAC:** (Documento 2)
+    1.  Use o `ID` da solicitação encontrado no passo geral (Comando 1) para alterar a tabela `po_apacs_solicitacoes` (Comando 2), substituindo `00000` pelo `ID` da solicitação:
+        ```sql
+        UPDATE po_apacs_solicitacoes SET [CAMPO_A_ALTERAR] = 'AAAA-MM-DD' WHERE id = 00000;
+        ```
+    2.  Os campos e formatos para cada data são:
+        *   Trocar data de início da validade: `SET apa_dtiinval = 'AAAA-MM-DD'`
+        *   Trocar data de fim da validade: `SET apa_dtfimval = 'AAAA-MM-DD'`
+        *   Trocar data de solicitação: `SET created = 'AAAA-MM-DD'`
+        *   Trocar data da autorização: `SET apa_dataut = 'AAAA-MM-DD'`
+
+*   **Alteração na Data do Início do Tratamento Solicitado e Data da Identificação Patológica:** (Documentos 2 e 5)
+    1.  Além de alterar `apa_dtiinval` na tabela `po_apacs_solicitacoes` (conforme descrito acima), é necessário ajustar a tabela `po_apacs_qts_rts`.
+    2.  Busque os registros relacionados na tabela `po_apacs_qts_rts` usando o `ID` da solicitação (Comando 3 no Documento 5), substituindo `00000` pelo `ID` da solicitação:
+        ```sql
+        SELECT * FROM po_apacs_qts_rts WHERE apa_solicitacao_id = 00000 ORDER BY id;
+        ```
+    3.  Para cada linha retornada (de acordo com os meses autorizados), atualize as colunas `apa_cmp`, `apa_pr`, `apa_dtintr` e `updated`. **ATENÇÃO:** O `ID` do `WHERE` neste comando é o identificador da linha na tabela `po_apacs_qts_rts`, e não o `ID` da solicitação (Comando 4 no Documento 5). Substitua os valores e `88888` pelos corretos:
+        ```sql
+        UPDATE po_apacs_qts_rts SET apa_cmp = 202206, /* Formato AAAAMM */
+                                   apa_pr = '2022-06-01', /* Formato 'AAAA-MM-DD' */
+                                   apa_dtintr = '2022-06-08', /* Formato 'AAAA-MM-DD' */
+                                   updated = '2022-06-28 10:32' /* Data e hora da correção */
+        WHERE id = 88888;
+        ```",5,2,9432,35661,0.7355093799949525,SUCESSO
+99,"Como atualizar o SISAIH?
+
+","Para atualizar o SISAIH01, siga os procedimentos abaixo, conforme descrito nos documentos 6 e 7:
+
+1.  **Solicitação de Atualização:** O setor responsável deve abrir um chamado no sistema GLPI, informando a nova versão a ser instalada e os nomes dos computadores que deverão receber a atualização.
+2.  **Download do Executável:** Baixe o executável da nova versão do sistema no site do Datasus: http://sihd.datasus.gov.br/versao/versao_sisaih01.php.
+3.  **Solicitar Fechamento do Sistema:** Entre em contato com o setor demandante e solicite que o sistema seja fechado em todos os computadores.
+4.  **Acessar Servidor Datasus:** Acesse o servidor Datasus através de ""Conexão de Área de Trabalho Remota"" (IP 10.100.0.51), utilizando o usuário administrador e a senha padrão.
+5.  **Criar Pasta de Backup:** Crie uma pasta com o número da versão atual do sistema e a data (versão\_xxxx\_ddmmaa) na pasta ""SISAIH01"", localizada no disco local D:\\BKP.
+6.  **Realizar Backup da Base de Dados:** Copie os arquivos SISAIH01.GDB, SISAIH00.GDB e SISAIH99.GDB da pasta D:\\Datasus\\SISAIH01 para a pasta de backup criada anteriormente.
+7.  **Executar Instalação no Servidor:** Execute o arquivo de instalação da última versão baixada no servidor. Clique em AVANÇAR e depois em CONCLUIR.
+8.  **Executar Instalação nas Estações de Trabalho:** Acesse cada um dos computadores informados no chamado do GLPI (utilizando VNC Viewer ou UltraVNC) e execute o arquivo de instalação da última versão baixada. Clique em AVANÇAR e depois em CONCLUIR.
+9.  **Finalizar:** Feche a conexão com os computadores e com o servidor remoto e finalize o chamado no sistema GLPI.",10,3,16142,51315,0.6854331092273214,SUCESSO
+100,"Como instalar o sistema operacional num computador?
+
+","Para instalar o sistema operacional num computador, conforme o Documento 1:
+
+1.  Dar boot pelo CD do Acronis.
+2.  Na tela seguinte, selecionar a terceira opção: Acronis True Image Echo Enterprise Server (Full Version).
+3.  Clicar na opção Recovery e depois em Next.
+4.  No menu do lado esquerdo, selecionar “HD_Suporte”.
+5.  Abrir a pasta “Imagens” e selecionar a imagem do Sistema Operacional que desejar (Ex.: Wind 10 Pro 500, conforme o tamanho do HD que será formatado), após isso pressionar Next.
+6.  Marcar a opção “Restore disk or Partitions” (Primeira Opção), depois clique em Next.
+7.  Selecionar “Disk2”, clicar em Next.
+8.  Selecionar o HD que será formatado (Ter o cuidado para não selecionar o HD externo), depois pressione Next.
+9.  Marcar primeira Opção, “Yes, I want to delete all the partitions or the destination hard disk drive before restoring”, depois clicar em Next.
+10. Deixar a segunda opção marcada “No, I do not.”, depois selecionar Next.
+11. Na tela “Additional setting” não marcar nada, selecionar Next.
+12. Última tela, clicar em “Proceed” , após esperar a finalização do procedimento, clicar em “Ok” no final.",5,2,4274,35167,0.8784656069610715,SUCESSO
+101,"Como formatar um computador?
+
+",NÃO ENCONTRADO,50,10,272989,51890,-4.260917325110811,FALHA
+102,"Como realizar o preparo pré operatório das mãos?
+","O preparo pré-operatório das mãos é realizado da seguinte forma:
+
+*   Abrir a torneira e molhar as mãos, antebraços e cotovelos.
+*   Recolher o antisséptico (clorexidina 2%) com as mãos em conchas e espalhar nas mãos, antebraços e cotovelos. No caso de esponja impregnada com antisséptico (clorexidina 2%), pressionar a parte da esponja contra a pele e espalhar por todas as partes (mãos, antebraços e cotovelos).
+*   Limpar sob as unhas com as cerdas da escova (conjunto escova/esponja impregnada com antisséptico) ou com o limpador de unhas, sob água corrente. As escovas são exclusivas para limpeza do leito ungueal. A escovação não é recomendada para a preparação cirúrgica das mãos.
+*   Friccionar as mãos, observando os espaços interdigitais e os antebraços por no mínimo, 03 a 05 minutos para a primeira cirurgia, e 02 a 03 minutos para as cirurgias subsequentes, mantendo as mãos acima do cotovelo.
+*   Enxaguar as mãos com água corrente no sentido das mãos para cotovelos, retirando todo o resíduo do produto. Fechar a torneira com os cotovelos, joelho ou pés, se a torneira não possuir fotosensor.
+*   Enxugar as mãos em toalhas ou compressas estéreis, com movimentos compressivos, iniciando pelas mãos e seguindo pelos antebraços e cotovelos, atentando para utilizar diferentes dobras da toalha/compressa para regiões distintas.",5,2,7102,34603,0.7947576799699448,SUCESSO
+103,"Qual o tipo de precaução para a doença adenovírus?
+",Gotículas + Contato,5,2,19968,68137,0.7069433641046714,SUCESSO
+104,"Qual o tempo de precaução para a doença adenovírus?
+",Durante a doença.,5,2,21812,70052,0.6886313024610289,SUCESSO
+105,"Qual o tipo de precaução para brucelose?
+",Padrão,5,2,13606,53499,0.7456774892988653,SUCESSO
+106,"Qual a duração da precaução para clostridium?
+","Para *Clostridium difficile (Colite associada a antibiótico)*, a precaução deve ser mantida durante a doença, instituída na suspeita e mantida até 48h sem diarreia e com tratamento adequado.",10,3,60586,61296,0.01158313756199425,SUCESSO
+107,"Qual o tipo e a duração da precaução para tuberculose extrapulmonar?
+",NÃO ENCONTRADO,50,10,411822,62121,-5.62935239291061,FALHA
+108,"Qual o tipo e a duração da precaução para suspeita de tuberculose pulmonar?
+","Tipo de precaução: Aerossóis
+Duração: Até 3 pesquisas de BAAR negativas ou Genexpert negativo ou diagnóstico alternativo estabelecido.",5,2,18056,56157,0.6784728528945634,SUCESSO
+109,"O que é precaução padrão?
+
+","Precaução padrão são medidas universais, que devem ser adotadas pelos profissionais de saúde para todos os pacientes, independente do diagnóstico.",5,2,18158,51548,0.6477457903313417,SUCESSO
+110,"O que é precaução padrão?
+Quais os momentos de higienização das mãos?
+","Precaução padrão: medidas universais, que devem ser adotadas pelos profissionais de saúde para todos os pacientes, independente do diagnóstico.
+
+Os momentos de higienização das mãos são:
+*   Antes e depois do contato com o paciente.
+*   Antes de manusear dispositivos invasivos.
+*   Após contato com sangue, secreções ou fluidos corporais (mesmo usando luvas).
+*   Durante a assistência ao paciente ao passar de uma área contaminada para outra área não contaminada do corpo do paciente.
+*   Após contato com as superfícies próximas do paciente.",5,2,5671,47834,0.8814441610569888,SUCESSO
+111,"Quando devo usar luvas?
+","Deves usar luvas:
+*   Quando houver risco ou contato direto com sangue, secreções, excreções, mucosas, pele não íntegra. (Documento 3)
+*   Para manejo com o paciente. (Documento 2)
+*   Para proteção química: durante o manuseio de produtos químicos com risco de contato com a pele, exceto durante uso de soluções como álcool, clorexidina e outras de atividades médicas assistenciais. (Documento 4)
+*   De procedimento: durante atendimento com uso de soluções como álcool, clorexidina, administração de quimioterápicos e outras atividades médicas assistenciais. (Documento 4)
+*   Cirúrgicas: durante manipulação de quimioterápicos (dois pares). (Documento 4)",5,2,9946,41657,0.7612406078210144,SUCESSO
+112,"Como descartar material perfurocortante?
+","Descartar materiais perfurantes cortantes em recipiente adequado, utilizando sempre os dispositivos de segurança.",5,2,7050,43288,0.837137312881168,SUCESSO
+113,Quando a precaução por contato é indicada?,"A precaução por contato é indicada nas seguintes situações:
+
+*   **Para pacientes infectados ou colonizados por bactérias multirresistentes ou micro-organismos epidemiologicamente importantes passíveis de transmissão por contato direto.** (Documento 1)
+*   **Empiricamente, para pacientes da UTI adulto que se encaixam nos seguintes critérios, até o resultado negativo das culturas de vigilância:**
+    *   Oriundos de outras instituições de saúde, que permaneceram internados por 72 horas, ou menos, se associado a procedimentos invasivos (intubação orotraqueal, acessos venosos centrais e arteriais, cateterismo vesical de demora).
+    *   Oriundos de outros setores do HE-UFPel que permaneceram internados por 7 dias ou mais.
+    *   Com histórico de hospitalização recente em UTI (últimos 3 meses) ou internação em instituições de longa permanência, home-care e hemodiálise.
+    *   Se o resultado da cultura de vigilância for positivo para germes multirresistentes, a precaução de contato deve ser mantida. (Documento 5)
+*   **Em casos específicos de doenças e condições, conforme o Quadro 1:** (Documento 4)
+    *   Abcesso (Drenagem não contida pelo curativo)
+    *   Adenovírus (Lactente e pré-escolar), em conjunto com precaução por gotículas
+    *   Andes Vírus, em conjunto com precaução por aerossóis
+    *   Bactérias multirresistentes
+    *   Bronquiolite / Infecção respiratória por Vírus Sincicial respiratório / Vírus Parainfluenzae
+    *   Clostridium difficile (Colite associada a antibiótico)
+    *   Cólera
+    *   Colite associada a antibiótico
+    *   Conjuntivite: Viral aguda (hemorrágica)
+    *   Coronavírus (SARS) incluindo SARS-CoV 2 (COVID-19), em conjunto com precaução por aerossóis
+    *   Difteria (Cutânea - Faríngea)
+    *   Enterovirose (Coxackie e Echovirus) - Lactente e Pré-escolar
+    *   Escabiose
+    *   Estafilococcia (Pele, ferida e queimadura: com secreção não contida)
+    *   Estreptococcia: Streptococcus Grupo A (Pele, ferida e queimadura: com secreção não contida)
+    *   Furunculose estafilocócica: - Lactentes e pré-escolares
+    *   Gastroenterite: Campylobacter, V. cholera, Criptosporidium spp. - Clostridium difficile
+    *   Rotavirus e outros vírus em pacientes incontinentes ou em fraldas
+    *   Hepatite Viral: Vírus A (Uso de fraldas ou incontinente)
+    *   Hepatite – Vírus E (se paciente com incontinência fecal)
+    *   Herpes Simples (Neonatal)
+    *   Herpes Simples (Muco cutâneo disseminado ou primário grave)
+    *   Herpes Zoster (Localizado em imunossuprimido ou disseminado), em conjunto com precaução por aerossóis
+    *   Impetigo
+    *   Infecção de Ferida Cirúrgica: Com secreção não contida
+    *   Meningococcemia, em conjunto com precaução por gotículas
+    *   Monkeypox, em conjunto com precaução por aerossóis
+    *   Pediculose
+    *   Pneumonia Adenovírus, em conjunto com precaução por gotículas
+    *   Pneumonia Burkholderia cepacia em fibrose cística (incluindo colonização respiratória)
+    *   Poliomielite
+    *   Rotavírus e outros vírus de gastroenterites (Paciente incontinente ou com fraldas)
+    *   Rubéola (Congênita)
+    *   Salmonelose (Paciente incontinente)
+    *   Shigelose (Paciente incontinente em uso de fraldas)
+    *   Úlcera/Lesão por Pressão (se não contida por curativo, Extensa)
+    *   Varicela, em conjunto com precaução por aerossóis
+    *   Vírus Sincicial Respiratório: lactente ou pré-escolar
+    *   Vírus Parainfluenzae - lactente ou pré-escolar",5,2,13898,62908,0.7790742035989063,SUCESSO
+114,Quando a precaução por gotículas é indicada?,"É indicada para pacientes com infecção suspeita ou reconhecida, de importância epidemiológica e que sejam transmitidas por gotículas com tamanho superior a 5µ.",5,2,12000,52323,0.7706553523307149,SUCESSO
+115,A mascara N95 pode ser reutilizada?,"Sim, a máscara N95 pode ser reutilizada.
+
+O Documento 1 estabelece procedimentos para que os profissionais de saúde possam acondicionar a máscara N95/PFF2 ou equivalente ""a fim de reutilizá-la posteriormente, de forma segura"". Ele também indica que, ""Para guardar a máscara e admitir que posteriormente ela possa ser reutilizada, devem ser observados atentamente e cumpridos todos os passos descritos a seguir"".
+
+O Documento 2 reforça que ""A máscara pode ser reutilizada enquanto apresentar vedação aceitável, não apresentar sinais de estrago, perda de qualidade e não estiver úmida e/ou suja"". No entanto, adverte que ""Quando houver associação de patologias transmitidas através de contato, não é recomendado o reuso da máscara.""",5,2,6241,33566,0.81406780670917,SUCESSO
+116,Quando deve ser feita a tricotomia pré operatória?,"A tricotomia pré-operatória, caso haja indicação, deve ser feita imediatamente antes da cirurgia.",5,2,6956,43538,0.8402315218889246,SUCESSO
+117,Quando preencher o checklist de prevenção de infecção de corrente sanguínea?,"O preenchimento do checklist deverá ser concomitante à realização do procedimento, independentemente de turno, e deve ser aplicado sempre que houver inserção de catéter, em todos os turnos de trabalho (manhã, tarde e noite).",5,2,8303,44514,0.813474412544368,SUCESSO
+118,Onde ele esta disponivel?,NÃO ENCONTRADO,50,10,256357,45061,-4.6891103171256745,FALHA
+119,Onde esta disponível o checklist de prevenção de infecção de corrente sanguínea?,"O documento está disponível no site do hospital no sistema ADS Hospitalar, aba documentos, pasta CCIH, formulário CCIH – 002.",5,2,7262,40883,0.8223711567155052,SUCESSO
+120,Quando deve ser realizada cultura de vigilancia?,"A cultura de vigilância deve ser realizada em Recém Nascido (RN) proveniente de outra instituição hospitalar com mais de 24 horas de vida, ou com menos de 24 horas de vida, caso tenha realizado procedimentos invasivos (cirurgia, cateter central, sonda vesical, intubação). A coleta deve ser feita na admissão.",5,2,16328,70601,0.7687284882650387,SUCESSO
+121,Quando deve ser trocado o ressuscitador manual?,O ressuscitador manual (Ambú – Ressussitador Manual Autoinflável) deve ser trocado **Entre pacientes**.,5,2,23112,70573,0.6725093165941649,SUCESSO
+122,Por quanto tempo pode usar um equipo de infusão intermitente?,24 h,5,2,19681,53645,0.6331251747599962,SUCESSO
+123,Por quanto tempo pode usar um equipo de NPT?,A cada bolsa,5,2,9767,55741,0.8247788880716169,SUCESSO
+124,Por quanto tempo pode o extensor?,Juntamente com sistema de infusão,5,2,17455,80553,0.7833103670875076,SUCESSO
+125,Quando trocar o CVC?,Sem rotina de troca estabelecida. Não substituir exclusivamente em virtude do tempo de permanência.,5,2,19608,54137,0.6378077839555203,SUCESSO
+126,Quando trocar o cateter umbilical?,"Cateter umbilical arterial: 5 dias
+Cateter umbilical venoso: 7 a 14 dias",5,2,13433,39851,0.6629193746706481,SUCESSO
+127,Quando trocar a cobertura de CVC?,"Curativo de cateter venoso central (CVC):
+*   Membrana transparente semipermeável – até 7 dias
+*   Cobertura de gaze estéril – até 48 horas
+*   Se a cobertura estiver solta, suja ou úmida trocar imediatamente.",5,2,9575,44645,0.7855302945458618,SUCESSO
+128,"quais são as responsabilidades do setor de suprimentos
+","As responsabilidades do setor de suprimentos são:
+* Solicitar à Unidade de Saúde Ocupacional e Segurança do Trabalho aprovação de todo novo produto químico.
+* Somente efetuar compra de produto químico que venha acompanhado de ficha de informação de segurança de produtos químicos, em português.",5,2,9759,69977,0.8605398916786944,SUCESSO
+129,descreva Paramentação durante manuseio de produtos químicos,"A descrição dos equipamentos de proteção individual que devem ser utilizados para as diferentes formas de contato em diversas situações de trabalho (como proteção dos olhos, pele e respiratória) são:
+
+*   **Avental de PVC ou outra composição impermeável:** Uso obrigatório durante manipulação de produtos químicos líquidos, tais como formol, ácido clorídrico, ácido peracético, corantes e outros.
+*   **Avental cirúrgico com proteção contra produtos químicos:** Uso obrigatório durante manipulação e administração de quimioterápicos.
+*   **Calçado de segurança:** Uso obrigatório durante o manuseio e transporte de produtos químicos.
+*   **Luvas para proteção química:** Uso obrigatório durante o manuseio de produtos químicos com risco de contato com a pele, exceto durante uso de soluções como álcool, clorexidina e outras de atividades médicas assistenciais.
+*   **Luvas de procedimento:** Uso obrigatório durante atendimento com uso de soluções como álcool, clorexidina, administração de quimioterápicos e outras atividades médicas assistenciais. Este requisito não se aplica no caso dos produtos químicos em questão estar sendo usado para a higienização de mãos.
+*   **Luvas cirúrgicas:** Uso obrigatório durante manipulação de quimioterápicos (dois pares).
+*   **Máscara respiratória - respirador PFF2/N95:** Uso obrigatório em ambiente ou durante o manuseio de PQ com risco de inalação de particulados, como poeiras, névoas ou fumos.
+*   **Máscara respiratória - com filtro gases ácidos/vapores orgânicos:** Uso obrigatório durante manipulação de produtos químicos com gases, vapores, tais como formol, ácido clorídrico, ácido peracético, tintas, solventes e outros.
+*   **Óculos de proteção:** Uso obrigatório em ambiente ou durante o manuseio de produtos químicos com risco de contato com respingos ou gotículas com os olhos do trabalhador.",5,2,16582,54488,0.6956761121714873,SUCESSO
+130,"o que fazer quando um empregado esta em crise ?
+","Quando um empregado apresenta sinais/sintomas de sofrimento mental, o protocolo a ser seguido depende de quem identifica essa situação:
+
+**1. Identificação por colegas de trabalho:**
+*   O colaborador que identificar sinais/sintomas de sofrimento mental (como ansiedade elevada, estresse aumentado, tristeza, desânimo, uso de substâncias tóxicas, irritabilidade constante, oscilação do humor, choro fácil, pensamentos suicidas, animosidade) no colega, deverá entrar em contato com o **enfermeiro de saúde mental** através do e-mail: sm.usost.he-ufpel@ebserh.gov.br ou Ramal 5166.
+*   O enfermeiro de saúde mental deverá consultar e agendar com o colaborador em questão o dia, horário e local para a realização da **escuta qualificada**.
+
+**2. Identificação pela chefia imediata:**
+*   A chefia imediata que identificar sinais/sintomas de sofrimento mental no seu colaborador deverá abrir um **processo SEI sigiloso** atribuído aos profissionais da equipe multiprofissional, solicitando agendamento de escuta qualificada para relatar a situação.
+*   O enfermeiro de saúde mental e a médica do trabalho deverão consultar e agendar reunião com a chefia imediata no mesmo processo SEI sigiloso para maiores informações.
+*   A chefia imediata deverá orientar o colaborador sobre o acolhimento proposto pela USOST e informar que ele será contactado pela equipe do canal de saúde mental.
+*   O enfermeiro de saúde mental deverá consultar e agendar com o colaborador o dia, horário e local para a realização da **escuta qualificada**.
+
+**3. Identificação pela Coordenação de Saúde e Qualidade de Vida (CSQV – UFPel):**
+*   A Psicóloga da equipe da CSQV, ao identificar sinais/sintomas de sofrimento mental em um colaborador do HE-UFPel, deve enviar um e-mail para sm.usost.he-ufpel@ebserh.gov.br aos cuidados do enfermeiro de saúde mental, solicitando agendamento de reunião para relato do caso.
+*   O enfermeiro de saúde mental deverá consultar e agendar com a profissional da CSQV, no mesmo e-mail, o dia, horário e local para a reunião.
+*   A profissional da CSQV deverá assinar um termo autorizando o compartilhamento das informações com a chefia imediata do profissional.
+*   O enfermeiro de saúde mental deverá consultar e agendar com a chefia imediata, através de processo SEI, o dia, horário e local para reunião e discussão do caso, e solicitar que ela oriente o colaborador sobre o acolhimento terapêutico.
+*   Caso a chefia aceite, deverá dar retorno no processo SEI ao enfermeiro de saúde mental para agendamento da **escuta qualificada**.
+*   O enfermeiro de saúde mental deverá consultar e agendar com o colaborador o dia, horário e local para a realização da **escuta qualificada**.
+
+**Após a identificação e agendamento da escuta qualificada (aplicável a todas as formas de identificação):**
+
+*   Caso o colaborador se manifeste informando impossibilidade de comparecer na data marcada, a escuta será reagendada.
+*   Em caso de ausência não justificada, será feito novo contato via telefone para consultar o interesse no serviço especializado. Se não aceitar, a recusa será formalizada por e-mail institucional e processo SEI sigiloso, e a chefia imediata será ciente.
+*   Na data agendada, o enfermeiro de saúde mental formalizará a presença do colaborador e realizará a escuta qualificada para adquirir informações, reconhecer e acolher suas necessidades.
+*   Quando necessário, será feito o devido encaminhamento para avaliação de outros profissionais da equipe do canal de saúde mental, composta por Psiquiatra (USME), Psicóloga assistencial e Psicóloga organizacional (UDP), Médicas do trabalho (USOST) e Psicóloga da UFPel (CSQV).
+*   O enfermeiro de saúde mental enviará um despacho através do processo SEI sigiloso para a chefia imediata comunicando a data e horário do acolhimento.
+*   O enfermeiro de saúde mental se reunirá com a médica do trabalho para repassar e discutir o caso, avaliando a necessidade de avaliação ocupacional.
+*   Se houver necessidade de avaliação ocupacional, a médica do trabalho marcará consulta com o colaborador para avaliar a necessidade de **atestado médico e/ou retorno ao trabalho**.
+*   Em caso de atestado médico, o colaborador seguirá a conduta da médica do trabalho e, no seu retorno, passará por reavaliação de atestado e escuta qualificada com o enfermeiro de saúde mental.
+*   Se não necessitar de atestado médico e estiver apto para o trabalho, será liberado para desenvolver suas atividades laborais.
+*   Após acompanhamento, o profissional de referência deverá dar um retorno à Médica do trabalho e/ou Enfermeiro de saúde mental sobre as necessidades emocionais do colaborador.
+*   Caso o colaborador ainda não esteja apto, retornará para reavaliação entre médica do trabalho e enfermeiro de saúde mental para encaminhamentos necessários ao cuidado integral, até que esteja apto para o retorno.
+
+Para atestados com duração específica:
+*   Atestado entre 4 e 15 dias: o colaborador será automaticamente agendado para consulta de avaliação de atestado com a médica do trabalho, que oferecerá a escuta qualificada com o enfermeiro de saúde mental.
+*   Atestado superior a 15 dias: passará por consulta com a médica do trabalho para avaliação de atestado, será encaminhado ao INSS (com trâmites legais feitos pela assistente social) e acompanhado pela assistente social e enfermeiro de saúde mental via telefone até o retorno. No retorno, passará por avaliação ocupacional pela médica do trabalho.
+
+**Registro:**
+*   Registrar informações relevantes em prontuário, sinalizando aspectos importantes referentes à saúde mental e encaminhamentos.
+*   Criar processo SEI e enviar despacho para a chefia do colaborador atendido, informando data e horário do acolhimento em saúde mental.",5,2,38554,141199,0.7269527404585019,SUCESSO
+131,"o que fazer quando acontece derramamento de produto quimico na pele?
+
+","As ações de emergência pós exposição pessoal a produtos químicos variam de acordo com cada produto, por isso devem ser seguidas as instruções contidas em suas respectivas Fichas de Informação de Segurança de Produtos Químicos. O médico deverá ser consultado imediatamente ou o mais breve possível.",5,2,8833,51682,0.8290894315235479,SUCESSO
+132,"o que fazer se durante o procedimento o empregado percebe que a mascara N95 não foi colocada adequadamente?
+
+","O profissional responsável pelo preenchimento do checklist deverá interromper o procedimento caso sejam observadas quebras na técnica asséptica, e a interrupção deverá ser seguida da correção do desvio para que possa haver a continuidade do procedimento.",20,5,61128,61118,-0.00016361791943464432,SUCESSO
+133,"quais os indices de práticas seguras no HE
+","Os índices de práticas seguras no HE (Hospital Escola), conforme descrito no texto, são classificados da seguinte forma:
+*   **IPS ótimo**: > 95%
+*   **IPS bom**: de 86 a 95%
+*   **IPS regular**: de 71 a 85%
+*   **IPS ruim**: ≤ 70%",5,2,12046,50606,0.7619649843892029,SUCESSO
+134,"o que fazer com colega que não esta bem emocionalmente e não aceita ajuda?
+
+","O documento 1, na seção ""3.3. Identificação preventiva de riscos psicossociais e saúde mental por colegas de trabalho"", descreve o procedimento:
+
+1.  O colaborador que identificar sinais/sintomas de sofrimento mental no colega deverá entrar em contato com o enfermeiro de saúde mental, através do e-mail: sm.usost.he-ufpel@ebserh.gov.br ou Ramal 5166.
+2.  Se o colega em questão (parte interessada) não aceitar o serviço especializado após contato telefônico (em caso de ausência não justificada), será formalizada a recusa de comparecimento através de e-mail institucional e processo SEI sigiloso, e a chefia imediata será ciente da situação relatada.
+3.  Se o colega não aceitar assinar o termo de autorização para a escuta qualificada, esta não será realizada, e o colega deverá assinar uma declaração de recusa, expressando sua opção livre, informada e esclarecida, assumindo os riscos derivados da sua decisão.
+4.  O enfermeiro de saúde mental deverá comunicar à chefia imediata do colega sobre a demanda recebida através de processo SEI sigiloso. A chefia do setor irá informar e orientar o profissional a procurar o acolhimento da saúde mental que a USOST oferece.
+5.  Se, mesmo após a orientação da chefia e novo contato, o colega ainda não aceitar participar do serviço especializado (em caso de ausência não justificada ou recusa persistente), o acolhimento em questão será finalizado, formalizando a recusa para a chefia imediata através de processo SEI e registrando-a no prontuário.",5,2,54436,143671,0.6211065559507486,SUCESSO
+135,"Quando as superfícies de trabalho devem ser limpas e desinfectadas?
+","As superfícies de trabalho, como as superfícies ao redor do paciente (mesa de refeição, grades e cabeceira da cama, mesa de cabeceira, suportes de soro, e outros) e o material que envolve a assistência do paciente (bombas de infusão, suporte de soro, mesa de cabeceira, mesa auxiliar, grade da cama), devem ser limpas e desinfectadas no mínimo uma vez por turno e sempre que necessário. A limpeza concorrente também deve ocorrer, no mínimo, 1 vez por turno.",5,2,9012,62388,0.8555491440661666,SUCESSO
+136,"Considerando os princípios de proteção biológica, quando algum material biológico deve ser considerado e tratado como contaminado?
+","Considerando os princípios de proteção biológica, um material biológico deve ser considerado e tratado como contaminado quando provém de pacientes com suspeita ou confirmação de doenças infecciosas transmissíveis e pacientes colonizados/infectados por bactérias multidroga resistentes, pois nessas situações são implantadas medidas de precauções na assistência.",5,2,14015,38186,0.6329806735452783,SUCESSO
+137,"O uso de adornos é permitido no Hospital Escola, desde que estes sejam pequenos, não estejam localizados nas mãos e não ofereçam risco de acidente durante execução dos procedimentos? 
+",NÃO ENCONTRADO,50,10,303003,50807,-4.9638042002086324,FALHA
+138,"Qual o fluxo para realizar pesquisas acadêmicas e científicas no HE-UFPEL? 
+ ","O fluxo para realizar pesquisas acadêmicas e científicas no HE-UFPEL é o seguinte:
+
+**1. Formalização e Credenciamento:**
+*   **Pesquisador:** Acessar a página do Setor de Pesquisa, fazer download, preencher e assinar os formulários necessários para formalizar a pesquisa no HE-UFPel.
+*   **Pesquisador, orientador e equipe de pesquisa:** Registrar-se no site Orcid.gov (se não possuírem) e no domínio Gov.br/Rede Pesquisa EBSERH, solicitando credenciamento no HE-UFPel.
+*   **Setor de Pesquisa - GEP:** Verificar o recebimento das solicitações de credenciamento e aprová-las ou solicitar ajustes.
+*   **Pesquisador:** Após aprovação do credenciamento, cadastrar o projeto e equipe de pesquisa no sistema Rede Pesquisa, anexando os documentos necessários (Projeto de pesquisa; Termo de Confidencialidade e Sigilo; Termo de Compromisso de Devolução Científica - se aplicável; Formulário de Solicitação para Consulta de Prontuários e Dados Institucionais - se aplicável; Termo de Autorização de Chefia para Participação em Pesquisa - se aplicável) e enviar para a GEP do HE-UFPel.
+*   **Setor de Pesquisa - GEP:** Verificar se o cadastro do projeto e os documentos estão preenchidos corretamente. Se afirmativo, encaminhar para autorização do setor responsável; se negativo, solicitar ajustes.
+
+**2. Autorização Interna e Carta de Anuência:**
+*   **Setor de Pesquisa - GEP:** Ao encaminhar o projeto para autorização, é gerado automaticamente um processo no Sistema Eletrônico de Informações (SEI). A GEP altera o nível de acesso, anexa os documentos do projeto no processo SEI e o disponibiliza para assinatura da Chefia do SGPIT, enviando para SGPIT/GEP/HE-UFPel.
+*   **Chefia SGPIT:** Assinar o Ofício e analisar o projeto. Se não houver dúvidas, encaminhar para análise e parecer das Chefias dos setores envolvidos. Se houver dúvidas ou sugestões, solicitar ajustes ao pesquisador via Plataforma SIG Ebserh.
+*   **Pesquisador:** Realizar os ajustes solicitados, anexar a nova versão do projeto no sistema Rede Pesquisa e reencaminhar à GEP. (Este ciclo de ajuste e reenvio pode ocorrer várias vezes).
+*   **Chefia(s) do(s) setor(es):** Analisar o projeto e emitir Despacho com parecer (ou solicitar ajustes ao pesquisador).
+*   **Setor de Pesquisa - GEP:** Após aprovação da(s) Chefia(s) do(s) setor(es) via SEI, emitir a Carta de Anuência através do sistema Rede Pesquisa, que será gerada no processo SEI. A GEP insere os nomes/cargos para assinatura (Chefia do Setor de Gestão da Pesquisa, Gerente de Ensino e Pesquisa e Diretor(a) Técnico(a) do HE-UFPel) e envia para assinaturas, informando as chefias.
+*   **Setor de Pesquisa - GEP:** Assim que as três chefias assinarem a Carta de Anuência, ""Solicitar documento de aprovação do CEP"" no sistema Rede Pesquisa e registrar no processo SEI que está ""aguardando Parecer do CEP"".
+
+**3. Aprovação do Comitê de Ética e Liberação da Coleta de Dados:**
+*   **Pesquisador:** Assim que o Comitê de Ética em Pesquisa (CEP) liberar o Parecer Consubstanciado aprovando a pesquisa na Plataforma Brasil, o pesquisador deverá anexá-lo no sistema Rede Pesquisa, enviar o processo à GEP e aguardar a liberação do início da coleta de dados.
+*   **Setor de Pesquisa - GEP:** Salvar o Parecer em arquivo PDF na rede Ensino e anexá-lo ao processo SEI correspondente.
+*   **Setor de Pesquisa - GEP:** Verificar o fluxo da metodologia da coleta de dados da pesquisa:
+    *   **Se for através de entrevistas/questionários on-line ou consulta em prontuários:** Encaminhar e-mail de liberação da coleta de dados com orientações.
+    *   **Se for presencial, com pacientes ou funcionários do HE:** Encaminhar e-mail para a chefia do Setor de Pesquisa e processo SEI para o Comitê COVID, para análise e reunião com o pesquisador. (Coletas presenciais podem estar suspensas devido a protocolos de segurança). Se a coleta presencial for liberada (em caso excepcional), a GEP solicita ao pesquisador o período de coleta (início e previsão de conclusão) e a relação dos coletadores, e informa sobre a necessidade de envio da apólice de seguro de cada coletador (se aplicável), uso de EPIs e cumprimento dos protocolos de segurança.
+*   **Setor de Pesquisa - GEP:** Receber e conferir a apólice de seguro do pesquisador (se necessária), salvando-a em PDF e anexando ao processo SEI.
+*   **Setor de Pesquisa - GEP:** Verificar se o(s) participante(s) que realizará(ão) a coleta de dados possui(em) crachá de identificação do Hospital Escola. Caso não possua(m), enviar e-mail solicitando uma foto de rosto para emissão.
+*   **Setor de Pesquisa - GEP:** Informar por e-mail as chefias dos setores/serviços que autorizaram a realização da pesquisa sobre o período da coleta de dados e nomes dos coletadores que terão acesso ao local.
+
+**4. Monitoramento da Coleta e Devolutiva:**
+*   **Setor de Pesquisa - GEP:** Consultar mensalmente a planilha Relação Pesquisas - HE - COMPLETA, quanto ao período da coleta de dados e entrar em contato com o pesquisador antes do término do prazo para verificar o andamento.
+*   **Pesquisador:** Para prorrogar o período de coleta de dados, informar a GEP por e-mail sobre o novo prazo e possíveis alterações no projeto/equipe. Informar à GEP por e-mail quando a coleta de dados finalizar.
+*   **Setor de Pesquisa - GEP:** Atualizar a planilha com a prorrogação e, após o término da coleta, solicitar a devolutiva com os resultados da pesquisa.
+*   **Pesquisador:** Assim que a pesquisa for concluída, enviar, via e-mail, a devolutiva da pesquisa (versão final de TCC, tese, dissertação, publicação científica, etc.).
+*   **Setor de Pesquisa - GEP:** Responder ao e-mail, confirmando o recebimento do arquivo e a conclusão do processo na GEP. Salvar a devolutiva em PDF na rede Ensino.
+*   **Setor de Pesquisa - GEP:** Enviar e-mail com a devolutiva para as chefias que autorizaram a realização da pesquisa, para divulgação entre os profissionais.
+*   **Setor de Pesquisa - GEP:** Publicar o arquivo da devolutiva na página da Pesquisa, para divulgação.
+*   **Setor de Pesquisa - GEP (contínuo):** A cada etapa do processo, atualizar a planilha de controle da GEP.",5,2,14622,68245,0.7857425452414096,SUCESSO
+139,"Qual é o setor responsável pela liberação do credenciamento no Rede Pesquisa do HE UFPEL? 
+ 
+ ",O setor responsável pela liberação do credenciamento no Rede Pesquisa do HE UFPEL é o Setor de Pesquisa - GEP.,5,2,13638,79337,0.8281003819151216,SUCESSO
+140,"Como devo proceder para obter uma carta de anuência para realização de pesquisa acadêmica nas dependências do HE UFPEL?
+ ","Para obter uma carta de anuência para realização de pesquisa acadêmica nas dependências do HE UFPEL, você deve proceder da seguinte forma:
+
+1.  **Acessar a página do Setor de Pesquisa** (disponível em https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-sul/he-ufpel/ensino-e-pesquisa/atividades-de-pesquisa), fazer download, preencher e assinar os formulários necessários para formalizar a pesquisa no HE-UFPel. Os documentos incluem: Termo de Confidencialidade e Sigilo para Coleta de Dados, Termo de Compromisso de Devolução Científica (não para estudos clínicos), Formulário de Solicitação para Consulta de Prontuários e Dados Institucionais (se necessário), Termo de Autorização de Chefia para Participação em Pesquisa (somente para empregados da EBSERH), e Termo de Consentimento Livre e Esclarecido (TCLE) / Termo de Assentimento Livre e Esclarecido (TALE).
+2.  **Se ainda não possuir cadastro Orcid**, registrar-se no site Orcid (https://orcid.org/).
+3.  **Acessar o domínio Gov.br/Rede Pesquisa EBSERH** (http://sig.ebserh.gov.br/redepesquisa/), realizar cadastro e solicitar credenciamento no HE-UFPel.
+4.  Após a aprovação do(s) credenciamento(s), **cadastrar seu projeto e equipe de pesquisa no sistema Rede Pesquisa**, anexando os documentos preenchidos e assinados (mencionados no item 1) e enviar para a GEP do HE-UFPel.
+5.  **Caso sejam solicitados ajustes** pelas Chefias dos setores envolvidos, realizar os ajustes, anexar a nova versão do projeto no sistema Rede Pesquisa e reencaminhar o processo à GEP.
+
+Após a aprovação da(s) Chefia(s) do(s) setor(es) via SEI, o Setor de Pesquisa - GEP emitirá a Carta de Anuência.",5,2,19520,82150,0.7623858794887401,SUCESSO
+141,Como faço para ter liberação para realizar o meu projeto no HE UFPEL? ,"Para ter liberação para realizar o seu projeto no HE UFPEL, o processo inicial depende do tipo de projeto:
+
+*   **Para Projetos de Ensino/Liga Acadêmica ou Projetos de Extensão:** O coordenador deve preencher o “Formulário de Solicitação para realizar Projeto de Ensino/Extensão no Hospital Escola e Outras Unidades” disponível no site do HE UFPEL (Acesso ao Formulário: http://novo.heufpel.com.br > Menu Ensino > Projetos de Ensino/Extensão) e enviar online (Documento 1, Ação 1; Documento 2, Ação 1).
+*   **Para Pesquisas acadêmicas, científicas, relatos de caso e estudos clínicos:** O pesquisador deve acessar a página do Setor de Pesquisa do HE-UFPel, fazer download, preencher e assinar os formulários necessários (como Termo de Confidencialidade e Sigilo para Coleta de Dados, Termo de Compromisso de Devolução Científica, entre outros), registrar-se no site Orcid.gov, realizar cadastro e solicitar credenciamento no Gov.br/Rede Pesquisa EBSERH. Após a aprovação do credenciamento, deve cadastrar o projeto e a equipe de pesquisa no sistema Rede Pesquisa, anexando os documentos e enviando para a GEP do HE-UFPel (Documento 11, Ações 1, 2 e 4).
+*   **Para Projetos de Atuação/Intervenção:** O docente responsável deve acessar o site do HE UFPEL na aba Ensino - Estágios, fazer o download do “Formulário de Solicitação para realização de Projeto de Atuação/Intervenção no Hospital Escola UFPEL”, preenchê-lo, assiná-lo e enviá-lo por e-mail (ensino.hepel@ebserh.gov.br) ou entregá-lo na Gerência de Ensino e Pesquisa (GEP) do HE (Documento 4, Ação 1).",15,4,91836,81576,-0.12577228596646073,SUCESSO
+142,Os projetos de pesquisas autorizadas no HE UFPEL são monitoradas? ,"Sim, os projetos de pesquisas autorizadas no HE UFPEL são monitoradas.
+
+Conforme o Documento 5, ""Estabelecer rotina descrita para monitoramento das pesquisas acadêmicas, científicas, relatos de caso e estudos clínicos formalizadas na Gerência de Ensino e Pesquisa do Hospital Escola UFPEL/Ebserh"". O Setor de Pesquisa da GEP consulta mensalmente a planilha de pesquisas, entra em contato com o pesquisador para verificar o andamento e a publicação, e solicita a devolutiva com os resultados após o término da coleta de dados.",5,2,18474,92038,0.7992785588561246,SUCESSO
+143,"Preciso prorrogar meu prazo para desenvolvimento da minha pesquisa no HE UFPEL, como devo proceder?
+","Para prorrogar o período de coleta de dados da sua pesquisa, você deverá informar a GEP (Gerência de Ensino e Pesquisa) por e-mail, o novo prazo e se haverá alguma alteração no projeto e/ou inclusão/exclusão de coletadores. O e-mail da GEP é gep.he-ufpel@ebserh.gov.br.",5,2,10038,75900,0.8677470355731225,SUCESSO
+144,"quais são as etapas para formalização uma visita técnica no HE UFPEL?
+","As etapas para formalização de uma visita técnica no HE UFPEL são as seguintes:
+
+1.  **Solicitação via site**: O solicitante acessa o site do Hospital Escola da Universidade Federal de Pelotas (HE UFPEL) na aba Ensino - Visitas, acessa o Formulário de Solicitação de Visita, preenche e envia online para a Gerência de Ensino e Pesquisa (GEP). As solicitações devem ser encaminhadas com o mínimo de dez dias de antecedência à data pretendida.
+2.  **Recebimento da solicitação**: O Assistente Administrativo da GEP recebe o Formulário via e-mail, confere os dados e salva o arquivo em PDF na pasta Visitas.
+3.  **Encaminhamento via sistema Sei!, para aprovação**: O Assistente Administrativo da GEP inicia novo processo no sistema Sei!, anexa o formulário de solicitação e encaminha para o responsável pelo serviço/unidade escolhido para visita. O Assistente Administrativo da GEP copia o número do Processo Sei! e renomeia o arquivo salvo com este número, mais o local solicitado e a instituição solicitante.
+4.a **Não aprovação da visita**: Caso o Responsável pelo serviço/unidade indefira a solicitação via Despacho, com a justificativa, o Assistente Administrativo da GEP informa ao solicitante, por e-mail, a justificativa da não aprovação.
+4.b **Aprovação e formalização da visita**: Caso o Responsável pelo serviço/unidade autorize a solicitação, informando no despacho o nome do profissional que irá receber o(s) visitante(s), o Assistente Administrativo da GEP envia e-mail ao solicitante, informando da autorização e solicitando listagem dos participantes (nome completo, número do CPF e telefone) com até 72 horas de antecedência à data da visita. Informa também que a visita estará sujeita a cancelamento mediante presença de intercorrência no setor.
+5b. **Impressão da identificação dos visitantes**: Quando o solicitante enviar por e-mail a listagem dos participantes, a GEP acessa o arquivo de etiquetas para visitante, preenche com o nome dos visitantes, data da visita, serviço/unidade visitados e imprime. Na data da visita, a GEP deixa as etiquetas de identificação na Portaria de recepção de funcionários e estudantes, juntamente com a lista de presença e formulário de Pesquisa de Satisfação de Visitas, a ser preenchido pelos visitantes.
+6b. **Confirmação da visita com o responsável pelo serviço/unidade e com a solicitante**: O Assistente Administrativo da GEP entra em contato, por telefone ou por e-mail com o profissional do serviço/unidade designado para a atividade, para confirmação da visita, informando data e horário. O Assistente Administrativo da GEP encaminha e-mail ao solicitante da visita, informando o nome do profissional que acolherá os visitantes, orientando que os mesmos retirem as etiquetas de identificação na portaria, assinem a lista de presença e preencham o Formulário Pesquisa de Satisfação de Visitas.
+7b. **Recolhimento da lista de presença e formulário de pesquisa de satisfação**: Na data seguinte à realização da visita, o Assistente Administrativo da GEP retira a lista de presença assinada na portaria e o formulário Pesquisa de Satisfação de Visitas, e arquiva na pasta física “Visitas”.",5,2,16040,75370,0.7871832294016187,SUCESSO
+145,"Quem é responsável pela impressão dos crachás de estágios no HE UFPEL?
+",O assistente administrativo da GEP é responsável pela impressão dos crachás.,5,2,9867,62675,0.8425688073394495,SUCESSO
+146,"Perdi meu crachá o que devo fazer solicitar um crachá novo no HE UFPEL?
+","Estudante ou profissional, que necessite acesso às dependências do Hospital Escola UFPEL, solicita segunda via de crachá, de forma presencial, telefone ou e-mail.
+
+As opções para solicitar são:
+*   **Presencial:** Rua Dr. Professor Araújo, 439 - Centro
+*   **Telefone:** (53)3284.4934
+*   **E-mail:** ensino.hepel@ebserh.gov.br",5,2,9736,72476,0.8656658756001987,SUCESSO
+147,"Como envio a devolutiva de uma pesquisa realizada no HE-UFPel?
+","Assim que a pesquisa for concluída, o pesquisador deverá enviar, via e-mail, a devolutiva da pesquisa realizada no HE-UFPel para o e-mail: sgpits.he-ufpel@ebserh.gov.br. A devolutiva pode ser a versão final do TCC, tese, dissertação, ou qualquer publicação científica (artigos, livros, capítulos de livros, trabalho apresentado em evento, registros e obtenções de patentes, etc.).",5,2,7972,68598,0.8837866993206799,SUCESSO
+148,"Como envio a devolutiva de uma pesquisa realizada no HE-UFPel?
+","Assim que a pesquisa for concluída, o pesquisador deverá enviar, via e-mail, a devolutiva da pesquisa realizada no HE-UFPel para o e-mail sgpits.he-ufpel@ebserh.gov.br. A devolutiva pode ser a versão final do TCC, tese, dissertação, ou qualquer publicação científica (artigos em periódicos, livros, capítulos de livros, trabalho apresentado em evento, registros e obtenções de patentes, etc.).",5,2,7978,68598,0.8836992332137963,SUCESSO
+149,"Como proceder para ter acesso aos dados de prontuários para pesquisa?
+
+","Para ter acesso aos dados de prontuários para pesquisa, que se enquadra em ""Obtenção de dados preliminares para elaboração de projeto de pesquisa"" ou ""Apresentação de estudo de Caso, caso clínico ou atividade pertencente a disciplina curricular de cursos"" ou ""Trabalho para apresentação de evento ou publicação em revista"", o solicitante deve seguir os seguintes passos:
+
+1.  Acessar o site do Hospital Escola UFPEL (http://novo.heufpel.com.br/ensino/estagios/), imprimir o ""Formulário de Solicitação para Consulta de Prontuários e Dados Institucionais - GEP 010"".
+2.  Preencher e assinar o formulário, junto com o Professor Orientador do Trabalho, caso haja.
+3.  Enviar o documento digitalizado para o e-mail da Gerência de Ensino e Pesquisa (GEP) (ensino.hepel@ebserh.gov.br) ou entregá-lo pessoalmente.
+4.  A GEP receberá, confirmará o recebimento e cadastrará a solicitação.
+5.  A GEP conferirá o formulário, observando se o solicitante especificou o(s) nome(s) do(s) paciente(s) cujo(s) prontuário(s) deseja ter acesso no campo “Dados solicitados para o trabalho”.
+6.  A GEP enviará o formulário por e-mail ao Serviço de Arquivo Médico (SAME) (arquivomedico.hepel@ebserh.gov.br), aguardando retorno.
+7.  Após o SAME responder que o prontuário se encontra disponível para consulta, a GEP entrará em contato com o solicitante por e-mail, fornecendo telefone e e-mail de contato do SAME para que acertem a data para consulta.",5,2,11040,47991,0.7699568669125461,SUCESSO
+150,"Qual a frequência de troca de artigos?
+
+","A frequência de troca de artigos é a seguinte:
+
+*   **Agulha Huber:** 7 dias
+*   **Ambú – Ressussitador Manual Autoinflável:** Entre pacientes
+*   **Cadarço traqueostomia / TOT:** A cada turno e sempre que necessário
+*   **Cateter arterial\*:** Sem rotina de troca estabelecida (avaliar diariamente a necessidade de permanência)
+*   **Cateter venoso central\*:** Sem rotina de troca estabelecida (não substituir exclusivamente em virtude do tempo de permanência)
+*   **Cateter venoso periférico\*:** 96 horas (em pacientes neonatais e pediátricos não devem ser trocados rotineiramente, a menos que indicado clinicamente; o cateter periférico instalado em situação de emergência com comprometimento da técnica asséptica deve ser trocado tão logo quanto possível; a troca de cateter periférico instalado para NPP não deve ultrapassar 96h)
+*   **Cateter umbilical\*:** Arterial – 5 dias; Venoso – 7 a 14 dias
+*   **Cateter de O2:** 12 horas (alternar narinas, exceto cateter tipo óculos, que deve ser trocado de acordo com a necessidade e avaliação do Enfermeiro)
+*   **Circuitos de ventilação mecânica:** Entre pacientes (trocar antes se houver sujidade visível ou mau funcionamento do equipamento)
+*   **Curativo de cateter venoso central\*:** Membrana transparente semipermeável – até 7 dias; Cobertura de gaze estéril – até 48 horas (se a cobertura estiver solta, suja ou úmida trocar imediatamente)
+*   **Dânula\*:** Junto com o sistema de infusão
+*   **Equipos\*:** Infusão contínua – 96 h; Infusão intermitente – 24 h; Infusão lipídica – 12 h; NPT – a cada bolsa; Propofol – 6 a 12 h; Hemocomponentes – a cada bolsa; Equipo de sistema fechado de monitorização hemodinâmica e pressão arterial invasiva – 96 h (equipos e dispositivos complementares devem ser trocados sempre nas trocas de cateteres venosos (periférico ou central))
+*   **Espaçador de aerossol:** Entre pacientes
+*   **Extensores\*:** Juntamente com sistema de infusão
+*   **Filtro trocador de calor e umidade (umidificador passivo):** A partir de 48 horas, podendo ser utilizado no máximo por 7 dias (não trocar antes de 48 horas, exceto quando saturar de secreção ou estiver com mau funcionamento)
+*   **Flebotomia\*:** Sem rotina de troca estabelecida (não utilizar essa via rotineiramente; avaliar sítio de inserção)
+*   **Frasco de aspiração:** Entre pacientes (esvaziar e higienizar após o uso no mesmo paciente)
+*   **Gastrostomia:** Sem rotina de troca estabelecida (avaliar troca em caso de vazamento ou obstrução)
+*   **Guedel:** Sem rotina de troca estabelecida (limpeza e desinfecção entre pacientes)
+*   **Látex O2 e aspiração:** Trocar a cada 24 horas, ou em período inferior caso haja presença de sujidade grosseira
+*   **Máscara de Hudson:** Entre pacientes (não recomendado reprocessamento, artigo de uso único)
+*   **Máscara de Venturi:** Entre pacientes
+*   **Microfix ou bureta\*:** 24 horas
+*   **Nebulizadores:** 24 horas (uso no mesmo paciente: secar o copo e a máscara após a nebulização, friccionar álcool 70% e manter protegido em saco plástico)
+*   **PICC\*:** Sem rotina de troca estabelecida (trocar se: secreção purulenta no local da inserção; IPCS suspeita com instabilidade hemodinâmica ou IPCS confirmada; mau funcionamento)
+*   **Sistema fechado de aspiração:** A cada 72 horas
+*   **Sonda de aspiração:** A cada uso
+*   **Sonda nasogástrica ou nasoenteral:** Sem rotina de troca estabelecida (trocar em caso de obstrução ou deslocamento distal; avaliar aspecto da sonda)
+*   **Sonda vesical de demora:** Sem rotina de troca estabelecida (trocar em caso de dano do circuito de drenagem, obstrução da sonda, tratamento de ITU)
+*   **Swan Ganz:** 5 dias
+*   **Tampa + manômetro frasco de aspiração:** Entre pacientes
+*   **Tubo endotraqueal:** Sem rotina de troca estabelecida
+*   **Umidificador de O2:** Entre pacientes (sempre que o volume de água estiver no limite inferior do frasco, desprezar e preencher novamente com água destilada)
+*   **Uropen:** 24 horas",20,5,124999,61056,-1.047284460167715,SUCESSO
+151,como faço para excluir uma apac?,"Ao contrário do que é geralmente solicitado, a exclusão de uma APAC não é realizada. Em vez disso, é feita a inativação da APAC no banco de dados.
+
+Para inativar uma APAC:
+1. Obtenha o nome completo do paciente e o número ou data da APAC.
+2. Busque o ID da solicitação da APAC através do nome do paciente com o seguinte comando:
+   `SELECT sol.id, sol.apa_num, pa.nome nome_paciente, to_char(sol.created , 'yyyy-mm-dd hh24:mi') criado_em FROM po_apacs_solicitacoes sol INNER JOIN po_pacientes pa on sol.paciente_id = pa.id WHERE pa.nome like '%NOME DO PACIENTE%' ORDER BY id DESC;`
+3. No resultado da pesquisa, verifique se as colunas `apa_num` e `criado_em` conferem com as informações dadas e memorize o ID (coluna id).
+4. Desative a APAC, definindo o status como 'I' (inativo) com o comando a seguir, utilizando o ID encontrado na pesquisa anterior:
+   `UPDATE po_apacs_solicitacoes SET status = 'I' WHERE id = 00000;`",10,3,18414,43020,0.5719665271966528,SUCESSO
+152,Quais EPIs devo utilizar na assistência?,"Na assistência a pacientes em precaução ou isolamento, devem ser utilizados:
+*   Avental
+*   Luvas
+*   Máscara
+*   Óculos ou protetor facial",5,2,12390,99914,0.8759933542846848,SUCESSO
+153,"Como é procedimento de lavagem de mãos?
+","O procedimento de lavagem de mãos, descrito como ""Higienização simples das mãos"", é o seguinte:
+
+1.  Abrir a torneira e molhar as mãos, evitando encostar-se na pia;
+2.  Aplicar na palma da mão quantidade suficiente de sabão líquido, para cobrir todas as superfícies da mão (seguir instruções fabricante). A higienização simples das mãos com água e sabonete deve durar em média 40-60 segundos;
+3.  Ensaboar as palmas das mãos friccionando-as entre si;
+4.  Esfregar a palma da mão direita contra o dorso da mão esquerda entrelaçando os dedos, e vice-versa;
+5.  Entrelaçar os dedos friccionando os espaços interdigitais;
+6.  Esfregar o dorso dos dedos de uma mão com a palma da mão de outra, segurando os dedos com movimentos de vai-e-vem e vice-versa;
+7.  Esfregar o polegar esquerdo com a palma da mão direita utilizando-se movimentos circulares e vice-versa;
+8.  Friccionar as polpas digitais e as unhas da mão direita com a palma da mão esquerda;
+9.  Esfregar o punho direito com a palma da mão esquerda utilizando movimentos circulares e vice-versa;
+10. Enxaguar as mãos retirando os resíduos de sabão, no sentido dos dedos para os punhos, evitando o contato direto das mãos com a torneira;
+11. Secar as mãos com papel toalha descartável, iniciando pelas mãos e seguindo pelos punhos;
+12. Fechar a torneira com o cotovelo ou utilizando papel toalha. Desprezar o papel toalha no recipiente para resíduos comuns.",5,2,7561,33719,0.7757644058246093,SUCESSO
+154,"Como formalizar um projeto de extensão?
+","Para formalizar um projeto de extensão, após o envio da Carta de Anuência para o e-mail do coordenador do projeto, são solicitados os seguintes documentos e procedimentos, que devem ser providenciados e entregues ao Assistente Administrativo na GEP com antecedência de sete dias ao início da execução do Projeto:
+
+1.  **Aprovação do Conselho Coordenador do Ensino, da Pesquisa e da Extensão (COCEPE):** O coordenador pode consultar a situação do projeto no sistema COBALTO, imprimir o histórico como comprovante de aprovação e entregá-lo (ou enviá-lo por e-mail à GEP).
+2.  **Listagem atualizada dos participantes do projeto:** O coordenador envia, por e-mail, uma listagem dos participantes, com data de início e data final de participação, e deve informar via e-mail a inclusão ou exclusão de novos participantes para manter a listagem atualizada.
+3.  **Cópia de apólice de seguros (se necessário):** Se o Projeto de Extensão for realizado dentro do Hospital Escola com exposição a riscos ocupacionais, cada participante deve contratar um seguro contra acidentes pessoais e apresentar cópia da apólice na GEP. Este documento é dispensado se as atividades ocorrerem somente na área acadêmica.
+4.  **Cadastro dos participantes:** Caso o participante do projeto ainda não tenha crachá de identificação para acesso ao Hospital Escola, este deve efetuar o Cadastro de Estudantes no site do Hospital Escola UFPEL.
+5.  **Atualização da Planilha:** O Assistente Administrativo da GEP atualiza a situação do projeto na planilha “Relação de Projetos de Extensão”, digitando “ativo” no campo “Status” até a data de vencimento informada pelo COCEPE.
+6.  **Cadastro do Projeto no Sistema ADS Ensino:** O Assistente Administrativo da GEP cadastra o Projeto no sistema ADS Ensino, preenchendo os campos de Área, Professor/Supervisor/Orientador, Tipo de Atividade (Projeto de Extensão), Data de início, Data de término, Instituição, Unidade, Setor e a quantidade de participantes, dias da semana e horários. Em seguida, cadastra os nomes dos participantes e imprime os crachás de acesso para aqueles que não os possuem.",5,2,24317,95101,0.7443034247799707,SUCESSO
+155,Por quanto tempo tem que lavar as mãos com água e sabonete?,A higienização simples das mãos com água e sabonete deve durar em média 40-60 segundos.,5,2,4566,35967,0.8730502961047627,SUCESSO
+156,"Qual tipo de precaução para caxumba e por quanto tempo?
+","Precaução de Gotículas, até 09 dias após o início do edema.",5,2,27640,57509,0.5193795753708115,SUCESSO
+157,"A friccção das mãos com preparação alcoólica deve ser feita após lavagem das mãos com água e sabonete?
+",NÃO ENCONTRADO,50,10,190264,38318,-3.9653948535936117,FALHA
+158,"qual tipo de precaução para paciente com Acinetobacter baumannii multirresistente?
+",Contato,5,2,13120,45154,0.7094388094078043,SUCESSO
+159,"Qual tempo de precaução para paciente portador de bactéria multirresistente?
+","Quando tratar-se de precaução de contato por bactéria multirresistente, em caso de reinterenação, a precaução de contato é registrada até 1 ano após a coleta.",5,2,7892,46062,0.8286657114324172,SUCESSO
+160,"Em que momentos devemos higienizar as mãos?
+","A higiene das mãos deve ocorrer antes e depois do contato com o paciente, antes de manusear dispositivos invasivos, após contato com sangue, secreções ou fluidos corporais (mesmo usando luvas), durante a assistência ao paciente ao passar de uma área contaminada para outra área não contaminada do corpo do paciente, após contato com as superfícies próximas do paciente.",5,2,7465,34860,0.7858577165806082,SUCESSO
+161,"Quais EPIs devemser utilizados no atendimento ao paciente em precaução de contato + aerossóis?
+","Os EPIs que devem ser utilizados no atendimento ao paciente em precaução de contato + aerossóis são:
+*   Luvas
+*   Avental
+*   Gorro
+*   Máscara N95 ou PFF2
+*   Óculos de proteção
+
+Esta lista é explicitamente mencionada para a ""coleta de secreção respiratória"", um procedimento que faz parte do atendimento ao paciente e requer precauções para evitar a transmissão por contato e aerossóis (Documento 5). Adicionalmente, o Documento 4 também menciona o uso de ""máscara N95/PFF2"" para observar ""as devidas precauções de contato com aerossóis"".",5,2,19515,69137,0.7177343535299479,SUCESSO
+162,"Em que situações devemos utilizar avental de proteção?
+","Devemos utilizar avental de proteção nas seguintes situações:
+
+*   **Avental de PVC ou outra composição impermeável:** Durante manipulação de produtos químicos líquidos, tais como formol, ácido clorídrico, ácido peracético, corantes e outros.
+*   **Avental cirúrgico com proteção contra produtos químicos:** Durante manipulação e administração de quimioterápicos.
+*   **Avental (geral):** Para proteger a pele e evitar que as roupas sujem durante atividades que podem causar projeção ou respingos de sangue, secreções ou excreções.
+*   **Avental estéril de manga longa/avental estéril:** Todos os profissionais envolvidos na inserção do cateter venoso central devem utilizá-lo como parte da barreira máxima de proteção.",5,2,18170,46562,0.609767621665736,SUCESSO
+163,"Quando devemos utilizar luvas?
+
+","Devemos utilizar luvas:
+* Para manejo com o paciente.
+* Quando houver risco ou contato direto com sangue, secreções, excreções, mucosas, pele não íntegra.
+* Durante o manuseio de produtos químicos com risco de contato com a pele (exceto durante uso de soluções como álcool, clorexidina e outras de atividades médicas assistenciais, para as quais luvas de procedimento são obrigatórias).
+* Durante atendimento com uso de soluções como álcool, clorexidina, administração de quimioterápicos e outras atividades médicas assistenciais (luvas de procedimento).
+* Durante manipulação de quimioterápicos (dois pares de luvas cirúrgicas).
+* Quando houver contato direto com o paciente ou a sua unidade de internação.",5,2,11562,37884,0.6948051948051948,SUCESSO
+164,Como retirar EPI no almoxarifado?,"Após a finalização do pedido do(s) EPI(S) via AGHUX, o(a) empregado(a) deverá levar o formulário USOST - 013 preenchido até o Almoxarifado Central, para a retirada do equipamento. No almoxarifado o atendente deverá conferir o preenchimento do formulário, e realizar a guarda temporária do documento.",5,2,6084,39321,0.8452735179674983,SUCESSO
+165,"Existe procedimento para abertura de cat, pop?
+","Sim, existe.
+
+Para ""cat"" (cateter), o Documento 3 descreve um procedimento para ""inserção de catéter"", que inclui o preenchimento de um checklist e a indicação de que ""Cateteres centrais devem ser instalados no Centro Cirúrgico ou na sala de procedimentos"".
+
+Para ""pop"" (POP - Procedimento Operacional Padrão), o Documento 13 é explicitamente um POP (""Este POP orienta..."") e detalha um procedimento para ""ajustar o cadastro de pacientes que tenham APACs criadas no sistema de gestão ADS Hospitalar"". Além disso, outros documentos referenciam POPs existentes, como ""POP.CCIH.002"" no Documento 3, ""POP.CCIH.001"" no Documento 6, 8 e 12, e ""POP.CCIH.003"" no Documento 8.",15,4,42498,35642,-0.19235733123842658,SUCESSO
+166,quando eu devo limpar uma superfície de trabalho para evitar contaminação por gotícula?,Os consultórios devem receber limpeza concorrente entre os atendimentos de participantes com suspeita e/ou confirmação de COVID-19 para evitar contaminação.,20,5,70050,63319,-0.10630300541701554,SUCESSO
+167,Qual o acidente de trabalho que necessita da participação da superintendência? ,NÃO ENCONTRADO,50,10,682549,116896,-4.8389423076923075,FALHA
+168,Qual o procedimento correto de lavagem de mãos?,"O procedimento correto de lavagem de mãos (higienização simples das mãos) é o seguinte:
+
+1.  Abrir a torneira e molhar as mãos, evitando encostar-se na pia.
+2.  Aplicar na palma da mão quantidade suficiente de sabão líquido para cobrir todas as superfícies da mão. A higienização simples das mãos com água e sabonete deve durar em média 40-60 segundos.
+3.  Ensaboar as palmas das mãos friccionando-as entre si.
+4.  Esfregar a palma da mão direita contra o dorso da mão esquerda entrelaçando os dedos, e vice-versa.
+5.  Entrelaçar os dedos friccionando os espaços interdigitais.
+6.  Esfregar o dorso dos dedos de uma mão com a palma da mão de outra, segurando os dedos com movimentos de vai-e-vem e vice-versa.
+7.  Esfregar o polegar esquerdo com a palma da mão direita utilizando movimentos circulares e vice-versa.
+8.  Friccionar as polpas digitais e as unhas da mão direita com a palma da mão esquerda.
+9.  Esfregar o punho direito com a palma da mão esquerda utilizando movimentos circulares e vice-versa.
+10. Enxaguar as mãos retirando os resíduos de sabão, no sentido dos dedos para os punhos, evitando o contato direto das mãos com a torneira.
+11. Secar as mãos com papel toalha descartável, iniciando pelas mãos e seguindo pelos punhos.
+12. Fechar a torneira com o cotovelo ou utilizando papel toalha. Desprezar o papel toalha no recipiente para resíduos comuns.
+
+Para a higienização antisséptica das mãos, a técnica é igual à utilizada para higienização simples das mãos, substituindo o sabão comum por um associado ao antisséptico. Para a fricção antisséptica das mãos (com preparações alcoólicas), aplica-se a preparação alcoólica em quantidade suficiente para cobrir toda a superfície das mãos, seguem-se os mesmos passos da higiene simples das mãos e, ao final, as mãos devem secar naturalmente, sem uso de papel-toalha.
+
+(Documento 9)",10,3,15657,34397,0.5448149547925691,SUCESSO
+169,qual o critério de avaliação do OLA?,"Visando o emprego de critérios padronizados por parte dos inspetores, a avaliação de cada item leva em consideração uma matriz para mensurar o atendimento de cada requisito. A avaliação pode atribuir notas 0, 4, 6, 8 e 10, conforme nível de implementação do item.",5,2,6300,54840,0.8851203501094091,SUCESSO
+170,O QUE FAZER QUANDO HOUVER EXPOSIÇÃO BIOLÓGICA?,NÃO ENCONTRADO,50,10,258649,44546,-4.806335024469088,FALHA
+171,"QUAIS SÃO AS RESPONSABILIDADES SEGUNDO O MANUAL DE PRODUTOS QUÍMICOS, DO SETOR DE SUPRIMENTOS? ","As responsabilidades do Setor de Suprimentos, segundo o manual de produtos químicos, são:
+*   Solicitar à Unidade de Saúde Ocupacional e Segurança do Trabalho aprovação de todo novo produto químico
+*   Somente efetuar compra de produto químico que venha acompanhado de ficha de informação de segurança de produtos químicos, em português",5,2,9801,54474,0.8200793038880934,SUCESSO
+172,Como eu redefino uma senha,NÃO ENCONTRADO,50,10,212646,41454,-4.12968591691996,FALHA
+173,qual a tecnica de higiene de mãos padronizada no HE-UFPEL,"A técnica de higiene de mãos padronizada no HE-UFPEL é a POP.CCIH.001 Higienização das Mãos, que inclui a higiene das mãos com água e sabonete líquido, e a higiene das mãos com preparação alcoólica.",5,2,7688,55052,0.8603502143428032,SUCESSO
+174,"especifique os cuidados com precauções adicionais
+","Os cuidados com precauções adicionais, conforme o texto, incluem:
+
+*   Priorizar o acesso aos profissionais que prestam assistência direta ao paciente.
+*   Estabelecer escalas entre os acadêmicos para acesso aos ambientes de pacientes em precauções.
+*   **Sinalização:** Cartaz de sinalização com a indicação do tipo de precaução, para colocação na porta do quarto de isolamento ou leito do paciente em precaução.
+*   **Acomodações do paciente:**
+    *   Pacientes em precaução devem ser acomodados prioritariamente na Clínica de Precaução Adulto (CPA).
+    *   Na impossibilidade de quarto privativo, nas situações em que não é obrigatório, utilizar coorte, colocando pacientes com a mesma patologia no mesmo quarto, sempre que possível.
+    *   Em enfermarias coletivas, manter o mínimo de 1 metro de distância entre os leitos.
+    *   Evitar colocar pacientes em precauções de contato com outros pacientes com maior risco de complicações, como pacientes com imunossupressão, feridas abertas, pacientes incontinentes e pacientes em longa permanência.
+*   **Acompanhantes e visitantes:** Devem receber orientações quanto às normativas da unidade, bem como às precauções que devem ser adotadas de acordo com o tipo de precaução instituída.
+
+Existem também cuidados específicos detalhados na ""Quadro 1: Orientações técnicas de precauções baseadas na transmissão"" para doenças específicas, por exemplo:
+
+*   **Bronquiolite / Infecção Respiratória:** Utilizar máscara cirúrgica conforme precaução padrão.
+*   **Clostridium difficile (Colite associada a antibiótico):** Limpeza e desinfecção com hipoclorito podem ser necessárias se a transmissão persistir. Higiene das mãos com água e sabão sem antissépticos.
+*   **Doença de Creutzfeld-Jacob:** Usar instrumentais descartáveis ou esterilização especial para superfícies ou objetos contaminados com tecidos neurais.
+*   **Raiva:** Se o paciente mordeu outro indivíduo ou a saliva contaminou uma ferida aberta ou membrana mucosa, lave bem a área exposta e administre profilaxia pós-exposição.",5,2,23790,55424,0.5707635681293303,SUCESSO
+175,"qual é a precaução para tuberculose?
+","Para tuberculose:
+*   Pulmonar ou laríngea (suspeita ou confirmada): Precaução para Aerossóis.
+*   Extrapulmonar e não laríngea: Precaução Padrão.",10,3,37679,50295,0.2508400437419227,SUCESSO
+176,"qual tecnica adequada para preparação alcoolica cirurgica das mãos?
+",NÃO ENCONTRADO,50,10,176467,32073,-4.502042216194306,FALHA
+177,Como redefinir uma senha?,NÃO ENCONTRADO,50,10,262369,53847,-3.872490575148105,FALHA
+178,Quais os procedimentos para uso correto de máscaras cirúrgicas para segurança do trabalhador? ,"Os procedimentos para uso correto de máscaras (incluindo máscaras cirúrgicas, quando utilizadas como EPI) para segurança do trabalhador, especificamente na paramentação e desparamentação, são:
+
+**Sequência de Paramentação (colocação):**
+1.  Realizar higienização das mãos.
+2.  Colocar o avental.
+3.  Colocar a máscara.
+4.  Colocar óculos ou protetor facial.
+5.  Colocar as luvas.
+
+**Sequência de Retirada (desparamentação), para evitar auto-contaminação:**
+1.  Retirar as luvas.
+2.  Retirar os óculos de proteção.
+3.  Remover a máscara pelas tiras/fitas elásticas.
+4.  Retirar o avental descartável.
+5.  Descartar os EPIs (ou armazenar, quando indicado).
+6.  Higienizar as mãos.
+
+**Observação Adicional:** Os EPIs devem ser colocados e retirados imediatamente antes e após a realização do procedimento, não sendo permitida a circulação de profissionais paramentados.
+
+(Informações extraídas do Documento 50, considerando ""máscara"" como um Equipamento de Proteção Individual, conforme também implícito nos Documentos 9, 10, 11, 15, 19 e 22 que mencionam o uso de máscara cirúrgica como EPI ou material para precauções.)",50,11,303714,42960,-6.0696927374301675,SUCESSO
+179,"Como faço a solicitação de liberação para participar de capacitação?
+",NÃO ENCONTRADO,50,10,455557,80699,-4.645138105800568,FALHA
+180,"Como faço para elaborar um projeto de capacitação?
+","Para elaborar um projeto de capacitação, deve-se:
+
+*   **Preencher, no sistema SEI, o Formulário SEI_Projeto Básico de Capacitação**.
+*   **Redigir a justificativa**, que deve apresentar, de forma clara e estruturada, o contexto que levou à necessidade da capacitação, fundamentando a importância da ação com base em normativas, avaliações institucionais ou demandas específicas. Deve-se manter um tom objetivo, técnico e alinhado com as diretrizes institucionais.
+*   **Redigir o objetivo**, que deve descrever, de forma clara e mensurável, quais melhorias são esperadas após a realização da capacitação e quais competências serão desenvolvidas pelos participantes.
+*   **Assinar o Projeto Básico** e providenciar a assinatura do assistente, chefia da área demandante e demais responsáveis.
+*   **O instrutor especialista deverá incluir no processo SEI:**
+    *   Plano de Ensino (se necessário, para ações com mais de 30 horas, submetido em até 15 dias após o aceite formal).
+    *   Cronograma das atividades previstas no projeto, seguindo os modelos dos formulários UDP – 014 (3EC) e UDP – 015 (presencial e on-line síncrona).
+    *   Material didático de suporte da ação de capacitação.
+    *   Formulário de Solicitação de Diárias e Passagens (nos casos em que há solicitação).
+    *   Uma avaliação (prova) obrigatória, com, no mínimo, 05 questões de múltipla escolha acompanhadas das respostas corretas, para verificação da aprendizagem do aluno (quando se tratar de ações da 3EC, trilhas obrigatórias e Procedimentos Operacionais Padrão).
+*   **Enviar, via sistema SEI, o projeto com 60 dias de antecedência** à realização da ação à unidade UDP/DIVGP/GAD/HE-UFPel e aguardar a nota técnica de aprovação ou despacho preliminar.
+*   **Realizar os ajustes necessários** solicitados no processo em, no máximo, 05 dias após o envio do despacho pela UDP.",5,2,8776,82824,0.8940403747705978,SUCESSO
+181,"Quais os TIPOS DE EVENTOS NAS AÇÕES DE CAPACITAÇÃO previstos no POP.DIVGP.001? 
+
+",NÃO ENCONTRADO,50,11,337767,53361,-5.329847641535953,FALHA
+182,"Como faço o cadastro dos horários excepcionais de trabalho dos empregados EBSERH no sistema SIGP/Mentorh
+
+","Para realizar o cadastro dos horários excepcionais de trabalho dos empregados EBSERH no sistema SIGP/Mentorh, siga os passos abaixo:
+
+1.  Acesse https://sigp.ebserh.gov.br/csp/ebserh/index.csp.
+2.  Clique em ""Frequência"", depois em ""Horário"" e, em seguida, em ""Cadastro de Horário Individual"".
+3.  Digite o número do SIAPE do empregado em ""Matrícula"". O nome do empregado e o horário individual cadastrado aparecerão.
+4.  Deverá ser lançado no sistema apenas as excepcionalidades, ou seja, serão inseridos como horário excepcional somente o que for diferente do horário individual cadastrado, DSR e ""Sem Jornada"" no campo ""Cadastro de horário Excepcional"".",5,2,7905,79876,0.9010341028594321,SUCESSO
+183,"Qual o prazo para entrega das escalas? 
+
+",A escala será recebida via processo SEI pela Divisão de Gestão de Pessoas - DIVGP até o dia 15 do mês antecedente à escala de referência.,5,2,7268,65216,0.8885549558390579,SUCESSO
+184,"O que o NAA deve verificar nas escalas quando recebe das unidades? 
+
+","O NAA deve verificar as seguintes conformidades nas escalas de trabalho:
+
+*   Se consta obrigatoriamente na escala: logotipo do HE; nome da unidade; mês e ano correspondente; nome completo do empregado (preferencialmente sem abreviações); número de matrícula SIAPE; número de registro profissional; cargo ocupado; vínculo; carga Horária Semanal; intervalos.
+*   Se o horário individual do empregado cadastrado no portal é o mesmo descrito na escala de trabalho.
+*   Se foi contemplado um descanso semanal remunerado (DSR) no sétimo dia de trabalho, ou seja, após 6 dias consecutivos de trabalho é obrigatório conceder um DSR ao empregado.
+*   Se é garantido ao empregado o repouso remunerado em, ao menos um domingo, precedido de sábado não trabalhado por mês.
+*   Se são concedidos os descansos obrigatórios correspondentes à jornadas de trabalho 12x36 e 24x72 horas.
+*   Caso conste na escala a realização de 12 (horas) consecutivas de trabalho por 36 (trinta e seis) horas de descanso aos sábados, domingos e feriados, deverá ser verificado se existe validação dessa jornada.
+*   Caso conste na escala a realização de jornada 24 (vinte e quatro) horas consecutivas de trabalho por 72 (setenta e duas) horas de descanso, deverá ser verificado a existência validação dessa jornada junto a Unidade de Administração de Pessoal – UAP.",5,2,7322,41263,0.8225528924217822,SUCESSO
+185,"Todos os profissionais podem realizar escalas de plantão de 24x72?
+
+","Não, a realização de jornada 24x72 horas de descanso é somente para profissional médico por necessidade assistencial extrema.",5,2,6426,61970,0.8963046635468775,SUCESSO
+186,"Como faço para solicitar uma folga eleitoral?
+
+","Para solicitar uma folga eleitoral, siga os procedimentos abaixo:
+
+1.  Acesse o SEI UFPel (https://sei.ufpel.edu.br) com seu usuário (CPF) e senha.
+2.  Clique em “Iniciar Processo” e escolha o Tipo do Processo: “Pessoal: Dispensa por serviço prestado à Justiça Eleitoral (TRE)”.
+3.  No campo “Especificação”, digite o nome do servidor e no campo “Nível de Acesso”, selecione a opção “restrito” com a hipótese legal, e clique em “Salvar”.
+4.  Na próxima página, selecione a opção “Incluir Documento” e escolha o Tipo do Documento: “PROGEP: Requerimento de Benefícios”.
+5.  Na próxima tela, no campo “Nível de Acesso” selecione a opção “restrito” com a hipótese legal, e após clique em “Confirmar Dados”.
+6.  O sistema abrirá o documento em uma página editável, o qual deve ser preenchido com os dados pessoais do servidor, e selecionado o benefício requerido: “Ausência serviço prestado Justiça Eleitoral”, informando a data da folga que está sendo solicitada.
+7.  Após o preenchimento, clique em “salvar” e “assinar” o documento.
+8.  Para anexar a Declaração de Dispensa (Comprovante de Dispensa fornecido pela Justiça Eleitoral), selecione novamente a opção “Incluir Documento” e escolha o Tipo do Documento: “Externo”.
+9.  Na próxima tela, preencha o Tipo do Documento: “Declaração”, a data do documento, o Número/Nome na Arvore: “Justiça Eleitoral”, o formato, o nível de acesso e a hipótese legal.
+10. Anexe o arquivo da Declaração de Dispensa, procurando-o em seus documentos, e depois de concluído, clique em “Confirmar Dados”.
+11. Após preencher e assinar o formulário “PROGEP: Requerimento de Benefícios” e incluir o anexo com a Declaração de Dispensa, informe o número do processo para a chefia da Unidade que deverá assinar o documento.
+12. Após a assinatura da chefia, envie o processo para a Seção de Apoio Administrativo – SAAD/PROGEP.
+13. Acompanhe o processo para conferir se a folga foi autorizada e lançada pela PROGEP.
+
+**Importante:** A folga deve ser autorizada pela chefia e o processo enviado à SAAD ANTES da data prevista para o gozo da folga.",5,2,8045,87863,0.9084369985090425,SUCESSO
+187,"Como formalizar a troca de unidade ( lotação) por servidores no Hospital Escola? 
+
+","Para formalizar a troca de unidade (lotação) por servidores no Hospital Escola, o procedimento é o seguinte:
+
+1.  A chefia de origem deve imprimir o formulário DIVGP – DASF – 001 Remanejamento Interno RJU, disponível no sistema ADS Hospitalar, aba documentos, pasta DIVGP / DASF.
+2.  O formulário deve ser preenchido com os dados solicitados, contendo a manifestação do servidor, da chefia imediata e da chefia de destino, informando a data do remanejamento e os horários que serão realizados pelo servidor.
+3.  Após o preenchimento e assinatura de todos os envolvidos, o formulário deve ser entregue no Departamento de Apoio ao Servidor Federal (DivGP) com 15 dias de antecedência da efetiva mudança de lotação.
+4.  O responsável pelo Departamento de Apoio ao Servidor Federal realizará as atualizações necessárias em seus controles internos ao receber o formulário.",5,2,7972,70337,0.8866599371596742,SUCESSO
+188,quem pode fazer as inspeções de OLA?,"A aplicação das inspeções, bem como as avaliações são feitas exclusivamente por profissionais da USOST.",5,2,7698,41570,0.8148183786384412,SUCESSO
+189,o que fazer em relação da rotulagem dos produtos quimicos?,"Em relação à rotulagem dos produtos químicos, deve-se:
+
+*   Manter a rotulagem do fabricante na embalagem original dos produtos químicos utilizados em serviços de saúde.
+*   Manter rotulada toda embalagem de produto químico fracionado.
+*   Todo recipiente contendo produto químico manipulado ou fracionado deve ser identificado, de forma legível, por etiqueta com o nome do produto, composição química, sua concentração, data de envase e de validade, e nome do responsável pela manipulação ou fracionamento.
+*   Proibir a reutilização das embalagens, exceto quando admitido pelo fabricante.
+*   Recusar o recebimento de embalagens de produto químico que estejam sem rotulagem original ou avariada.",5,2,12862,56478,0.7722653068451433,SUCESSO
+190,o que fazer se eu me acidentar durante o uso de produtos quimicos?,"As ações de emergência pós exposição pessoal a produtos químicos variam de acordo com cada produto, por isso devem ser seguidas as instruções contidas em suas respectivas Fichas de Informação de Segurança de Produtos Químicos. O médico deverá ser consultado imediatamente ou o mais breve possível.",5,2,6970,62778,0.8889738443403741,SUCESSO
+191,Estou me sentindo ansioso e sobre carregado. como faço para pedir ajuda? ,"Se você é um colaborador do Hospital Escola da Universidade Federal de Pelotas (HE-UFPel/EBSERH) e está se sentindo ansioso e sobrecarregado, pode solicitar atendimento e suporte especializado através do e-mail: sm.usost.he-ufpel@ebserh.gov.br ou pelo Ramal 5166.",10,3,98583,138679,0.28912813043070684,SUCESSO
