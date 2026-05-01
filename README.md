@@ -34,16 +34,3 @@ The goal is to analyze how context size affects:
 
 ---
 
-## 📊 Dataset
-
-The dataset consists of:
-
-- **192 question-answer pairs**
-  - 74 synthetic questions
-  - 118 expert-generated questions
-
-### Format
-
-```csv
-question,answer
-...
